@@ -36,7 +36,7 @@ for i in range(1,32):
 
 items=sorted(items, key=lambda x: x['price'], reverse=True)
 with open("results_all_2.json", "w", encoding="utf-8") as f:
-    f.write(json.dumps(items))
+    f.write(json.dumps(items,ensure_ascii=False))
 
 filtered_items=[]
 for phone in items:
@@ -49,29 +49,25 @@ print()
 
 price = [phone['price'] for phone in items]
 
-total_price = np.sum(price)
-min_price = np.min(price)
-max_price = np.max(price)
+total_price = sum(price)
+min_price = min(price)
+max_price = max(price)
 mean_price = np.mean(price)
 median_price = np.median(price)
 std_price = np.std(price)
+label_frequencies = Counter([phone['title'] for phone in items])
 
-print('Price:')
-print(f'Total: {total_price}')
-print(f'Minimum: {min_price}')
-print(f'Maximum: {max_price}')
-print(f'Mean: {mean_price}')
-print(f'Median: {median_price}')
-print(f'Standard Deviation: {std_price}')
-print()
-
-
-# Частота
-titles = [phone['title'] for phone in filtered_items]
-label_frequencies = Counter(titles)
-
-for label, frequency in label_frequencies.items():
-    print(f'{label}: {frequency}')
+with open("results_stats_2.json", "w", encoding="utf-8") as f:
+    stats = {
+        'total_price': total_price,
+        'min_price': min_price,
+        'max_price': max_price,
+        'mean_price': mean_price,
+        'median_price': median_price,
+        'std_price': std_price,
+        'label_frequencies': label_frequencies
+    }
+    f.write(json.dumps(stats, ensure_ascii=False))
 
 
 

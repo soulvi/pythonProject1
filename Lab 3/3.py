@@ -22,7 +22,6 @@ def handle_file(file_name):
         item['absolute-magnitude'] = star.find_all("absolute-magnitude")[0].get_text().strip()
         return item
 
-handle_file("3/58.xml")
 items=[]
 for i in range(1,500):
     file_name=f"3/{i}.xml"
@@ -32,7 +31,7 @@ for i in range(1,500):
 items=sorted(items, key=lambda x: x['radius'], reverse=True)
 
 with open("results_all_3.json", "w", encoding="utf-8") as f:
-    f.write(json.dumps(items))
+    f.write(json.dumps(items,ensure_ascii=False))
 
 filtered_items=[]
 for star in items:
@@ -45,26 +44,23 @@ print()
 
 radius = [star['radius'] for star in items]
 radius = list(map(float, radius))
-total_radius = np.sum(radius)
-min_radius = np.min(radius)
-max_radius = np.max(radius)
+
+total_radius = sum(radius)
+min_radius = min(radius)
+max_radius = max(radius)
 mean_radius = np.mean(radius)
 median_radius = np.median(radius)
 std_radius = np.std(radius)
+label_frequencies = Counter([star['constellation'] for star in items])
 
-print('Views:')
-print(f'Total: {total_radius}')
-print(f'Minimum: {min_radius}')
-print(f'Maximum: {max_radius}')
-print(f'Mean: {mean_radius}')
-print(f'Median: {median_radius}')
-print(f'Standard Deviation: {std_radius}')
-print()
-
-
-# Частота
-titles = [star['name'] for star in filtered_items]
-label_frequencies = Counter(titles)
-
-for label, frequency in label_frequencies.items():
-    print(f'{label}: {frequency}')
+with open("results_stats_3.json", "w", encoding="utf-8") as f:
+    stats = {
+        'total_radius': total_radius,
+        'min_radius': min_radius,
+        'max_radius': max_radius,
+        'mean_radius': mean_radius,
+        'median_radius': median_radius,
+        'std_radius': std_radius,
+        'label_frequencies': label_frequencies
+    }
+    f.write(json.dumps(stats, ensure_ascii=False))

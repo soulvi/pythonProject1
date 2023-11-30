@@ -26,7 +26,6 @@ def handle_file(file_name):
 
         return item
 
-handle_file("1/58.html")
 items=[]
 for i in range(1,999):
     file_name=f"1/{i}.html"
@@ -35,7 +34,7 @@ for i in range(1,999):
 items=sorted(items, key=lambda x: x['views'], reverse=True)
 
 with open("results_all_1.json", "w", encoding="utf-8") as f:
-    f.write(json.dumps(items))
+    f.write(json.dumps(items, ensure_ascii=False))
 
 filtered_items=[]
 for book in items:
@@ -45,29 +44,25 @@ for book in items:
 print(len(items))
 print(len(filtered_items))
 print()
+
 # Список значений поля "views"
 views = [book['views'] for book in items]
-
-total_views = np.sum(views)
-min_views = np.min(views)
-max_views = np.max(views)
+total_views = sum(views)
+min_views = min(views)
+max_views = max(views)
 mean_views = np.mean(views)
 median_views = np.median(views)
 std_views = np.std(views)
+label_frequencies = Counter([book['class'] for book in items])
 
-print('Views:')
-print(f'Total: {total_views}')
-print(f'Minimum: {min_views}')
-print(f'Maximum: {max_views}')
-print(f'Mean: {mean_views}')
-print(f'Median: {median_views}')
-print(f'Standard Deviation: {std_views}')
-print()
-
-
-# Частота
-titles = [book['title'] for book in filtered_items]
-label_frequencies = Counter(titles)
-
-for label, frequency in label_frequencies.items():
-    print(f'{label}: {frequency}')
+with open("results_stats_1.json", "w", encoding="utf-8") as f:
+    stats = {
+        'total_views': total_views,
+        'min_views': min_views,
+        'max_views': max_views,
+        'mean_views': mean_views,
+        'median_views': median_views,
+        'std_views': std_views,
+        'label_frequencies': label_frequencies
+    }
+    f.write(json.dumps(stats, ensure_ascii=False))

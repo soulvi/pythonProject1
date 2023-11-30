@@ -1,21 +1,8 @@
-import requests
-from bs4 import BeautifulSoup
-import pandas as pd
-
-url = "https://ekb.bvdshop.ru/"
-html=requests.get(url)
-print(html.text)
-
-site = BeautifulSoup(text, 'html.parser')
-products = site.find_all("div", attrs={'class': 'my-225 col-4'})
-for product in products:
-    item = dict()
-    item['el-cost__current'] = site.find_all("el-cost__current")[0]['src']
-
-
-    def handle_file(file_name):
-        items = list()
-        with open(file_name, encoding='utf-8') as file:
-            text = ""
-            for row in file.readlines():
-                text += row
+props = soup.find_all('div', class_='section-product-specifications__row')
+        for prop in props:
+            name_element = prop.find('div', class_='section-product-specifications__name')
+            value_element = prop.find('div', class_='section-product-specifications__value')
+            name = name_element.text.strip().split(':')[0].strip()
+            value = value_element.text.strip()
+            item[name] = value
+#Попытка написания цикла для 1 части 5 задания
