@@ -1,0 +1,36 @@
+{
+    "cosmetics": {
+        "attractive nail polish": 18.77,
+        "amazing bubble bath": 20.06,
+        "beautiful lip balm": 28.29,
+        "magnificent toner": 60.96,
+        "nice moustache wax": 90.2,
+        "glamorous moisturizer": 92.13,
+        "gorgeous nail polish": 108.97,
+        "luxurious toothpaste": 147.315,
+        "delightful toner": 263.964
+    },
+    "fruit": {
+        "refined apricot": 16.62,
+        "pleasant orange": 18.29,
+        "superb boysenberry": 18.64,
+        "marvelous papaya": 31.78,
+        "nice melon": 35.37,
+        "sublime grapes": 48.64,
+        "tasteful plum": 70.68,
+        "amazing kiwifruit": 83.38,
+        "sublime orange": 109.569,
+        "superb strawberry": 127.79
+    },
+    "tools": {
+        "superb flooring": 17.78,
+        "stylish wheelbarrow": 20.68,
+        "elegant windows": 36.87,
+        "trendy baseboard": 42.26,
+        "delightful tape measure": 49.08,
+        "pretty hammer": 82.39,
+        "tasteful saw": 86.36,
+        "delightful nails": 90.04,
+        "attractive drywall": 95.07
+    }
+}

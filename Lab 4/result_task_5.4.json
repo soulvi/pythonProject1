@@ -1,0 +1,26 @@
+[
+    {
+        "season": "Autumn",
+        "category": "Jacket",
+        "product_name": "Heels",
+        "price": 149.93
+    },
+    {
+        "season": "Spring",
+        "category": "Jacket",
+        "product_name": "Chino Shorts",
+        "price": 149.93
+    },
+    {
+        "season": "Summer",
+        "category": "Dress",
+        "product_name": "Blouse",
+        "price": 149.88
+    },
+    {
+        "season": "Winter",
+        "category": "Jacket",
+        "product_name": "Biker Jacket",
+        "price": 149.19
+    }
+]

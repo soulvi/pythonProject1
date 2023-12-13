@@ -1,0 +1,66 @@
+[
+    {
+        "category": "Blouse",
+        "sum": 7110.09,
+        "avg": 86.71,
+        "min": 21.63,
+        "max": 146.88,
+        "count": 82
+    },
+    {
+        "category": "Dress",
+        "sum": 7500.97,
+        "avg": 87.22,
+        "min": 21.78,
+        "max": 149.88,
+        "count": 86
+    },
+    {
+        "category": "Jacket",
+        "sum": 6386.01,
+        "avg": 87.48,
+        "min": 23.07,
+        "max": 149.93,
+        "count": 73
+    },
+    {
+        "category": "Jeans",
+        "sum": 6396.04,
+        "avg": 82.0,
+        "min": 20.8,
+        "max": 147.52,
+        "count": 78
+    },
+    {
+        "category": "Shirt",
+        "sum": 6781.76,
+        "avg": 86.95,
+        "min": 23.19,
+        "max": 148.9,
+        "count": 78
+    },
+    {
+        "category": "Shoes",
+        "sum": 6698.86,
+        "avg": 81.69,
+        "min": 24.14,
+        "max": 148.92,
+        "count": 82
+    },
+    {
+        "category": "Shorts",
+        "sum": 7217.53,
+        "avg": 88.02,
+        "min": 25.76,
+        "max": 149.5,
+        "count": 82
+    },
+    {
+        "category": "Skirt",
+        "sum": 7987.58,
+        "avg": 80.68,
+        "min": 20.25,
+        "max": 147.91,
+        "count": 99
+    }
+]

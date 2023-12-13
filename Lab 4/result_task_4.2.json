@@ -1,0 +1,26 @@
+[
+    {
+        "category": "cosmetics",
+        "sum": 1042.51,
+        "avg": 80.19,
+        "min": 16.04,
+        "max": 263.964,
+        "count": 13
+    },
+    {
+        "category": "fruit",
+        "sum": 868.49,
+        "avg": 62.03,
+        "min": 16.62,
+        "max": 127.79,
+        "count": 14
+    },
+    {
+        "category": "tools",
+        "sum": 837.75,
+        "avg": 52.36,
+        "min": 15.41,
+        "max": 95.91,
+        "count": 16
+    }
+]

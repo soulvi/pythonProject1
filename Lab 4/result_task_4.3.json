@@ -1,0 +1,14 @@
+[
+    {
+        "category": "cosmetics",
+        "sum": 9409
+    },
+    {
+        "category": "fruit",
+        "sum": 9765
+    },
+    {
+        "category": "tools",
+        "sum": 11750
+    }
+]

@@ -1,0 +1,478 @@
+[
+    {
+        "product_name": "Chino Shorts",
+        "gender": "Female",
+        "category": "Jacket",
+        "age-group": "25-35",
+        "price": 149.93
+    },
+    {
+        "product_name": "Heels",
+        "gender": "Male",
+        "category": "Jacket",
+        "age-group": "25-35",
+        "price": 149.93
+    },
+    {
+        "product_name": "Blouse",
+        "gender": "Female",
+        "category": "Dress",
+        "age-group": "18-24",
+        "price": 149.88
+    },
+    {
+        "product_name": "Business Shirt",
+        "gender": "Female",
+        "category": "Jacket",
+        "age-group": "35-45",
+        "price": 149.66
+    },
+    {
+        "product_name": "Wool Jacket",
+        "gender": "Female",
+        "category": "Shorts",
+        "age-group": "18-24",
+        "price": 149.5
+    },
+    {
+        "product_name": "Wool Jacket",
+        "gender": "Female",
+        "category": "Jacket",
+        "age-group": "25-35",
+        "price": 149.41
+    },
+    {
+        "product_name": "Pattern Skirt",
+        "gender": "Male",
+        "category": "Shorts",
+        "age-group": "25-35",
+        "price": 149.32
+    },
+    {
+        "product_name": "Biker Jacket",
+        "gender": "Male",
+        "category": "Jacket",
+        "age-group": "25-35",
+        "price": 149.19
+    },
+    {
+        "product_name": "Summer Dress",
+        "gender": "Male",
+        "category": "Shoes",
+        "age-group": "18-24",
+        "price": 148.92
+    },
+    {
+        "product_name": "Beach Shirt",
+        "gender": "Male",
+        "category": "Shirt",
+        "age-group": "35-45",
+        "price": 148.9
+    },
+    {
+        "product_name": "Business Shirt",
+        "gender": "Male",
+        "category": "Shoes",
+        "age-group": "25-35",
+        "price": 148.75
+    },
+    {
+        "product_name": "Beach Shirt",
+        "gender": "Male",
+        "category": "Jacket",
+        "age-group": "18-24",
+        "price": 148.46
+    },
+    {
+        "product_name": "Chino Shorts",
+        "gender": "Female",
+        "category": "Jacket",
+        "age-group": "35-45",
+        "price": 147.98
+    },
+    {
+        "product_name": "Chino Shorts",
+        "gender": "Male",
+        "category": "Skirt",
+        "age-group": "18-24",
+        "price": 147.91
+    },
+    {
+        "product_name": "Blouse",
+        "gender": "Male",
+        "category": "Jeans",
+        "age-group": "18-24",
+        "price": 147.52
+    },
+    {
+        "product_name": "Pattern Skirt",
+        "gender": "Female",
+        "category": "Shirt",
+        "age-group": "35-45",
+        "price": 147.24
+    },
+    {
+        "product_name": "Beach Shirt",
+        "gender": "Female",
+        "category": "Dress",
+        "age-group": "25-35",
+        "price": 147.19
+    },
+    {
+        "product_name": "Biker Jacket",
+        "gender": "Male",
+        "category": "Blouse",
+        "age-group": "35-45",
+        "price": 146.88
+    },
+    {
+        "product_name": "Business Shirt",
+        "gender": "Female",
+        "category": "Skirt",
+        "age-group": "18-24",
+        "price": 146.87
+    },
+    {
+        "product_name": "Wool Jacket",
+        "gender": "Male",
+        "category": "Shirt",
+        "age-group": "35-45",
+        "price": 146.82
+    },
+    {
+        "product_name": "Wool Jacket",
+        "gender": "Female",
+        "category": "Jeans",
+        "age-group": "35-45",
+        "price": 146.69
+    },
+    {
+        "product_name": "Pattern Skirt",
+        "gender": "Female",
+        "category": "Skirt",
+        "age-group": "25-35",
+        "price": 146.25
+    },
+    {
+        "product_name": "Business Shirt",
+        "gender": "Female",
+        "category": "Jacket",
+        "age-group": "25-35",
+        "price": 146.17
+    },
+    {
+        "product_name": "Blouse",
+        "gender": "Female",
+        "category": "Shirt",
+        "age-group": "35-45",
+        "price": 146.12
+    },
+    {
+        "product_name": "Casual Jeans",
+        "gender": "Male",
+        "category": "Jacket",
+        "age-group": "25-35",
+        "price": 145.75
+    },
+    {
+        "product_name": "Heels",
+        "gender": "Male",
+        "category": "Blouse",
+        "age-group": "25-35",
+        "price": 145.28
+    },
+    {
+        "product_name": "Biker Jacket",
+        "gender": "Male",
+        "category": "Jacket",
+        "age-group": "25-35",
+        "price": 145.27
+    },
+    {
+        "product_name": "Summer Dress",
+        "gender": "Female",
+        "category": "Blouse",
+        "age-group": "18-24",
+        "price": 145.08
+    },
+    {
+        "product_name": "Casual Jeans",
+        "gender": "Female",
+        "category": "Blouse",
+        "age-group": "35-45",
+        "price": 144.87
+    },
+    {
+        "product_name": "Business Shirt",
+        "gender": "Male",
+        "category": "Shorts",
+        "age-group": "25-35",
+        "price": 144.79
+    },
+    {
+        "product_name": "Chino Shorts",
+        "gender": "Male",
+        "category": "Shorts",
+        "age-group": "18-24",
+        "price": 144.37
+    },
+    {
+        "product_name": "Wool Jacket",
+        "gender": "Female",
+        "category": "Dress",
+        "age-group": "25-35",
+        "price": 144.33
+    },
+    {
+        "product_name": "Blouse",
+        "gender": "Male",
+        "category": "Jeans",
+        "age-group": "18-24",
+        "price": 144.28
+    },
+    {
+        "product_name": "Casual Jeans",
+        "gender": "Female",
+        "category": "Blouse",
+        "age-group": "35-45",
+        "price": 144.05
+    },
+    {
+        "product_name": "Summer Dress",
+        "gender": "Male",
+        "category": "Shirt",
+        "age-group": "35-45",
+        "price": 143.95
+    },
+    {
+        "product_name": "Beach Shirt",
+        "gender": "Female",
+        "category": "Blouse",
+        "age-group": "18-24",
+        "price": 143.73
+    },
+    {
+        "product_name": "Wool Jacket",
+        "gender": "Female",
+        "category": "Shirt",
+        "age-group": "25-35",
+        "price": 143.39
+    },
+    {
+        "product_name": "Beach Shirt",
+        "gender": "Male",
+        "category": "Blouse",
+        "age-group": "35-45",
+        "price": 143.34
+    },
+    {
+        "product_name": "Casual Jeans",
+        "gender": "Female",
+        "category": "Skirt",
+        "age-group": "25-35",
+        "price": 143.13
+    },
+    {
+        "product_name": "Pattern Skirt",
+        "gender": "Female",
+        "category": "Shoes",
+        "age-group": "25-35",
+        "price": 143.09
+    },
+    {
+        "product_name": "Blouse",
+        "gender": "Female",
+        "category": "Skirt",
+        "age-group": "18-24",
+        "price": 142.85
+    },
+    {
+        "product_name": "Business Shirt",
+        "gender": "Male",
+        "category": "Blouse",
+        "age-group": "25-35",
+        "price": 142.75
+    },
+    {
+        "product_name": "Business Shirt",
+        "gender": "Female",
+        "category": "Skirt",
+        "age-group": "35-45",
+        "price": 142.69
+    },
+    {
+        "product_name": "Wool Jacket",
+        "gender": "Female",
+        "category": "Shirt",
+        "age-group": "35-45",
+        "price": 142.56
+    },
+    {
+        "product_name": "Wool Jacket",
+        "gender": "Female",
+        "category": "Dress",
+        "age-group": "35-45",
+        "price": 142.39
+    },
+    {
+        "product_name": "Casual Jeans",
+        "gender": "Female",
+        "category": "Jeans",
+        "age-group": "18-24",
+        "price": 142.34
+    },
+    {
+        "product_name": "Pattern Skirt",
+        "gender": "Male",
+        "category": "Dress",
+        "age-group": "25-35",
+        "price": 142.33
+    },
+    {
+        "product_name": "Blouse",
+        "gender": "Female",
+        "category": "Shorts",
+        "age-group": "35-45",
+        "price": 142.18
+    },
+    {
+        "product_name": "Pattern Skirt",
+        "gender": "Female",
+        "category": "Blouse",
+        "age-group": "25-35",
+        "price": 141.93
+    },
+    {
+        "product_name": "Casual Jeans",
+        "gender": "Male",
+        "category": "Shirt",
+        "age-group": "18-24",
+        "price": 141.78
+    },
+    {
+        "product_name": "Blouse",
+        "gender": "Female",
+        "category": "Shorts",
+        "age-group": "25-35",
+        "price": 141.74
+    },
+    {
+        "product_name": "Blouse",
+        "gender": "Male",
+        "category": "Shirt",
+        "age-group": "35-45",
+        "price": 141.73
+    },
+    {
+        "product_name": "Business Shirt",
+        "gender": "Male",
+        "category": "Shorts",
+        "age-group": "35-45",
+        "price": 141.71
+    },
+    {
+        "product_name": "Heels",
+        "gender": "Male",
+        "category": "Dress",
+        "age-group": "35-45",
+        "price": 141.39
+    },
+    {
+        "product_name": "Casual Jeans",
+        "gender": "Male",
+        "category": "Jacket",
+        "age-group": "35-45",
+        "price": 141.19
+    },
+    {
+        "product_name": "Biker Jacket",
+        "gender": "Female",
+        "category": "Blouse",
+        "age-group": "25-35",
+        "price": 141.05
+    },
+    {
+        "product_name": "Blouse",
+        "gender": "Female",
+        "category": "Jacket",
+        "age-group": "35-45",
+        "price": 140.89
+    },
+    {
+        "product_name": "Wool Jacket",
+        "gender": "Female",
+        "category": "Jeans",
+        "age-group": "35-45",
+        "price": 140.88
+    },
+    {
+        "product_name": "Biker Jacket",
+        "gender": "Male",
+        "category": "Blouse",
+        "age-group": "25-35",
+        "price": 140.88
+    },
+    {
+        "product_name": "Chino Shorts",
+        "gender": "Male",
+        "category": "Shorts",
+        "age-group": "35-45",
+        "price": 140.75
+    },
+    {
+        "product_name": "Blouse",
+        "gender": "Female",
+        "category": "Blouse",
+        "age-group": "25-35",
+        "price": 140.74
+    },
+    {
+        "product_name": "Blouse",
+        "gender": "Female",
+        "category": "Jeans",
+        "age-group": "35-45",
+        "price": 140.63
+    },
+    {
+        "product_name": "Biker Jacket",
+        "gender": "Male",
+        "category": "Shirt",
+        "age-group": "18-24",
+        "price": 139.69
+    },
+    {
+        "product_name": "Chino Shorts",
+        "gender": "Male",
+        "category": "Jacket",
+        "age-group": "25-35",
+        "price": 139.63
+    },
+    {
+        "product_name": "Wool Jacket",
+        "gender": "Female",
+        "category": "Skirt",
+        "age-group": "35-45",
+        "price": 139.57
+    },
+    {
+        "product_name": "Pattern Skirt",
+        "gender": "Male",
+        "category": "Shirt",
+        "age-group": "25-35",
+        "price": 139.31
+    },
+    {
+        "product_name": "Casual Jeans",
+        "gender": "Male",
+        "category": "Jeans",
+        "age-group": "25-35",
+        "price": 139.28
+    },
+    {
+        "product_name": "Business Shirt",
+        "gender": "Female",
+        "category": "Skirt",
+        "age-group": "25-35",
+        "price": 139.13
+    }
+]

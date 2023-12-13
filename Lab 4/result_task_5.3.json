@@ -1,0 +1,22 @@
+[
+    {
+        "gender": "Men",
+        "count": 22165
+    },
+    {
+        "gender": "Women",
+        "count": 18632
+    },
+    {
+        "gender": "Unisex",
+        "count": 2164
+    },
+    {
+        "gender": "Boys",
+        "count": 830
+    },
+    {
+        "gender": "Girls",
+        "count": 655
+    }
+]
