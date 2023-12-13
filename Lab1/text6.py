@@ -25,7 +25,7 @@ soup = BeautifulSoup("""<table>
     </tr>
 </table>""", features="html.parser")
 
-table = soup.find("table")  # Измененная строчка
+table = soup.find("table")
 
 for tick in (data if data is not None else []):
     tr = soup.new_tag("tr")
