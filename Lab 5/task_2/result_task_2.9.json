@@ -1,0 +1,488 @@
+[
+    {
+        "_id": "Льейда",
+        "max_age": 64,
+        "min_age": 61,
+        "avg_age": 63
+    },
+    {
+        "_id": "Подгорица",
+        "max_age": 65,
+        "min_age": 33,
+        "avg_age": 53
+    },
+    {
+        "_id": "Тудела",
+        "max_age": 65,
+        "min_age": 41,
+        "avg_age": 52
+    },
+    {
+        "_id": "Сьюдад-Реаль",
+        "max_age": 51,
+        "min_age": 51,
+        "avg_age": 51
+    },
+    {
+        "_id": "Тарраса",
+        "max_age": 64,
+        "min_age": 32,
+        "avg_age": 51
+    },
+    {
+        "_id": "Алькала-де-Энарес",
+        "max_age": 65,
+        "min_age": 19,
+        "avg_age": 50
+    },
+    {
+        "_id": "Луарка",
+        "max_age": 61,
+        "min_age": 36,
+        "avg_age": 50
+    },
+    {
+        "_id": "Сеговия",
+        "max_age": 65,
+        "min_age": 33,
+        "avg_age": 50
+    },
+    {
+        "_id": "Скопье",
+        "max_age": 65,
+        "min_age": 20,
+        "avg_age": 50
+    },
+    {
+        "_id": "Кадакес",
+        "max_age": 64,
+        "min_age": 31,
+        "avg_age": 49
+    },
+    {
+        "_id": "Хихон",
+        "max_age": 65,
+        "min_age": 29,
+        "avg_age": 49
+    },
+    {
+        "_id": "Самора",
+        "max_age": 57,
+        "min_age": 28,
+        "avg_age": 48
+    },
+    {
+        "_id": "Минск",
+        "max_age": 61,
+        "min_age": 20,
+        "avg_age": 48
+    },
+    {
+        "_id": "Будапешт",
+        "max_age": 59,
+        "min_age": 29,
+        "avg_age": 48
+    },
+    {
+        "_id": "Бильбао",
+        "max_age": 62,
+        "min_age": 19,
+        "avg_age": 47
+    },
+    {
+        "_id": "Вильнюс",
+        "max_age": 65,
+        "min_age": 29,
+        "avg_age": 47
+    },
+    {
+        "_id": "Ереван",
+        "max_age": 62,
+        "min_age": 19,
+        "avg_age": 47
+    },
+    {
+        "_id": "Тирана",
+        "max_age": 63,
+        "min_age": 34,
+        "avg_age": 47
+    },
+    {
+        "_id": "Монсон",
+        "max_age": 65,
+        "min_age": 18,
+        "avg_age": 46
+    },
+    {
+        "_id": "Луго",
+        "max_age": 64,
+        "min_age": 25,
+        "avg_age": 46
+    },
+    {
+        "_id": "Мадрид",
+        "max_age": 58,
+        "min_age": 28,
+        "avg_age": 46
+    },
+    {
+        "_id": "Малага",
+        "max_age": 62,
+        "min_age": 26,
+        "avg_age": 46
+    },
+    {
+        "_id": "Мурсия",
+        "max_age": 61,
+        "min_age": 24,
+        "avg_age": 46
+    },
+    {
+        "_id": "Куэнка",
+        "max_age": 59,
+        "min_age": 32,
+        "avg_age": 45
+    },
+    {
+        "_id": "Аликанте",
+        "max_age": 64,
+        "min_age": 24,
+        "avg_age": 45
+    },
+    {
+        "_id": "Семана",
+        "max_age": 58,
+        "min_age": 30,
+        "avg_age": 45
+    },
+    {
+        "_id": "Прага",
+        "max_age": 65,
+        "min_age": 22,
+        "avg_age": 44
+    },
+    {
+        "_id": "Валенсия",
+        "max_age": 56,
+        "min_age": 28,
+        "avg_age": 44
+    },
+    {
+        "_id": "Эль-Пуэрто-де-Санта-Мария",
+        "max_age": 60,
+        "min_age": 34,
+        "avg_age": 43
+    },
+    {
+        "_id": "Алма-Ата",
+        "max_age": 60,
+        "min_age": 27,
+        "avg_age": 43
+    },
+    {
+        "_id": "Душанбе",
+        "max_age": 55,
+        "min_age": 18,
+        "avg_age": 43
+    },
+    {
+        "_id": "Гранада",
+        "max_age": 58,
+        "min_age": 27,
+        "avg_age": 43
+    },
+    {
+        "_id": "Афины",
+        "max_age": 64,
+        "min_age": 29,
+        "avg_age": 43
+    },
+    {
+        "_id": "Таллин",
+        "max_age": 65,
+        "min_age": 30,
+        "avg_age": 43
+    },
+    {
+        "_id": "Загреб",
+        "max_age": 62,
+        "min_age": 27,
+        "avg_age": 43
+    },
+    {
+        "_id": "Касерес",
+        "max_age": 54,
+        "min_age": 27,
+        "avg_age": 42
+    },
+    {
+        "_id": "Баку",
+        "max_age": 60,
+        "min_age": 21,
+        "avg_age": 42
+    },
+    {
+        "_id": "Краков",
+        "max_age": 61,
+        "min_age": 20,
+        "avg_age": 42
+    },
+    {
+        "_id": "Севилья",
+        "max_age": 62,
+        "min_age": 20,
+        "avg_age": 42
+    },
+    {
+        "_id": "Пласенсия",
+        "max_age": 64,
+        "min_age": 18,
+        "avg_age": 42
+    },
+    {
+        "_id": "Москва",
+        "max_age": 61,
+        "min_age": 21,
+        "avg_age": 41
+    },
+    {
+        "_id": "Сараево",
+        "max_age": 63,
+        "min_age": 19,
+        "avg_age": 41
+    },
+    {
+        "_id": "Бургос",
+        "max_age": 60,
+        "min_age": 18,
+        "avg_age": 41
+    },
+    {
+        "_id": "Авилес",
+        "max_age": 54,
+        "min_age": 29,
+        "avg_age": 41
+    },
+    {
+        "_id": "Барселона",
+        "max_age": 62,
+        "min_age": 19,
+        "avg_age": 40
+    },
+    {
+        "_id": "Кордова",
+        "max_age": 49,
+        "min_age": 22,
+        "avg_age": 40
+    },
+    {
+        "_id": "Варшава",
+        "max_age": 57,
+        "min_age": 21,
+        "avg_age": 40
+    },
+    {
+        "_id": "Санкт-Петербург",
+        "max_age": 57,
+        "min_age": 18,
+        "avg_age": 40
+    },
+    {
+        "_id": "Вильявисиоса",
+        "max_age": 61,
+        "min_age": 29,
+        "avg_age": 40
+    },
+    {
+        "_id": "Сан-Себастьян",
+        "max_age": 60,
+        "min_age": 23,
+        "avg_age": 40
+    },
+    {
+        "_id": "Камбадос",
+        "max_age": 60,
+        "min_age": 21,
+        "avg_age": 40
+    },
+    {
+        "_id": "Ла-Корунья",
+        "max_age": 59,
+        "min_age": 19,
+        "avg_age": 40
+    },
+    {
+        "_id": "Лас-Росас",
+        "max_age": 51,
+        "min_age": 23,
+        "avg_age": 39
+    },
+    {
+        "_id": "Вроцлав",
+        "max_age": 64,
+        "min_age": 19,
+        "avg_age": 39
+    },
+    {
+        "_id": "Сория",
+        "max_age": 48,
+        "min_age": 24,
+        "avg_age": 39
+    },
+    {
+        "_id": "Фигерас",
+        "max_age": 61,
+        "min_age": 22,
+        "avg_age": 39
+    },
+    {
+        "_id": "Бишкек",
+        "max_age": 59,
+        "min_age": 19,
+        "avg_age": 39
+    },
+    {
+        "_id": "Трухильо",
+        "max_age": 59,
+        "min_age": 22,
+        "avg_age": 39
+    },
+    {
+        "_id": "София",
+        "max_age": 65,
+        "min_age": 23,
+        "avg_age": 38
+    },
+    {
+        "_id": "Навалькарнеро",
+        "max_age": 57,
+        "min_age": 18,
+        "avg_age": 38
+    },
+    {
+        "_id": "Белград",
+        "max_age": 56,
+        "min_age": 19,
+        "avg_age": 38
+    },
+    {
+        "_id": "Сантьяго-де-Компостела",
+        "max_age": 57,
+        "min_age": 21,
+        "avg_age": 38
+    },
+    {
+        "_id": "Бланес",
+        "max_age": 61,
+        "min_age": 20,
+        "avg_age": 38
+    },
+    {
+        "_id": "Эльче",
+        "max_age": 63,
+        "min_age": 18,
+        "avg_age": 37
+    },
+    {
+        "_id": "Ташкент",
+        "max_age": 51,
+        "min_age": 25,
+        "avg_age": 37
+    },
+    {
+        "_id": "Виго",
+        "max_age": 54,
+        "min_age": 18,
+        "avg_age": 37
+    },
+    {
+        "_id": "Любляна",
+        "max_age": 63,
+        "min_age": 22,
+        "avg_age": 36
+    },
+    {
+        "_id": "Мерида",
+        "max_age": 41,
+        "min_age": 32,
+        "avg_age": 36
+    },
+    {
+        "_id": "Тбилиси",
+        "max_age": 62,
+        "min_age": 21,
+        "avg_age": 36
+    },
+    {
+        "_id": "Хельсинки",
+        "max_age": 41,
+        "min_age": 28,
+        "avg_age": 35
+    },
+    {
+        "_id": "Овьедо",
+        "max_age": 60,
+        "min_age": 19,
+        "avg_age": 35
+    },
+    {
+        "_id": "Вальядолид",
+        "max_age": 55,
+        "min_age": 19,
+        "avg_age": 35
+    },
+    {
+        "_id": "Картахена",
+        "max_age": 51,
+        "min_age": 21,
+        "avg_age": 35
+    },
+    {
+        "_id": "Кишинев",
+        "max_age": 62,
+        "min_age": 19,
+        "avg_age": 34
+    },
+    {
+        "_id": "Рига",
+        "max_age": 53,
+        "min_age": 19,
+        "avg_age": 34
+    },
+    {
+        "_id": "Мартоса",
+        "max_age": 49,
+        "min_age": 19,
+        "avg_age": 34
+    },
+    {
+        "_id": "Махадаонда",
+        "max_age": 59,
+        "min_age": 18,
+        "avg_age": 33
+    },
+    {
+        "_id": "Санхенхо",
+        "max_age": 58,
+        "min_age": 18,
+        "avg_age": 33
+    },
+    {
+        "_id": "Астана",
+        "max_age": 65,
+        "min_age": 20,
+        "avg_age": 33
+    },
+    {
+        "_id": "Артейхо",
+        "max_age": 50,
+        "min_age": 22,
+        "avg_age": 33
+    },
+    {
+        "_id": "Осера",
+        "max_age": 45,
+        "min_age": 19,
+        "avg_age": 32
+    }
+]

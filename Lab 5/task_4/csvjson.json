@@ -1,0 +1,2298 @@
+[
+  {
+    "movie_title": "The Parent Trap",
+    "release_date": "1998-07-29",
+    "genre": "Comedy",
+    "mpaa_rating": "PG",
+    "total_gross": 66308518,
+    "inflation_adjustes_gross": 119185667
+  },
+  {
+    "movie_title": "Firelight",
+    "release_date": "1998-09-04",
+    "genre": "Drama",
+    "mpaa_rating": "R",
+    "total_gross": 784419,
+    "inflation_adjustes_gross": 1409943
+  },
+  {
+    "movie_title": "Simon Birch",
+    "release_date": "1998-09-11",
+    "genre": "Drama",
+    "mpaa_rating": "PG",
+    "total_gross": 18253415,
+    "inflation_adjustes_gross": 32809442
+  },
+  {
+    "movie_title": "Holy Man",
+    "release_date": "1998-10-09",
+    "genre": "Comedy",
+    "mpaa_rating": "PG",
+    "total_gross": 12069719,
+    "inflation_adjustes_gross": 21694605
+  },
+  {
+    "movie_title": "Beloved",
+    "release_date": "1998-10-16",
+    "genre": "Drama",
+    "mpaa_rating": "R",
+    "total_gross": 22852487,
+    "inflation_adjustes_gross": 41062682
+  },
+  {
+    "movie_title": "The Waterboy",
+    "release_date": "1998-11-06",
+    "genre": "Comedy",
+    "mpaa_rating": "PG-13",
+    "total_gross": 161491646,
+    "inflation_adjustes_gross": 288691833
+  },
+  {
+    "movie_title": "I'll Be Home For Christmas",
+    "release_date": "1998-11-13",
+    "genre": "Comedy",
+    "mpaa_rating": "PG",
+    "total_gross": 12214338,
+    "inflation_adjustes_gross": 21941840
+  },
+  {
+    "movie_title": "A Bug's Life",
+    "release_date": "1998-11-20",
+    "genre": "Adventure",
+    "mpaa_rating": "G",
+    "total_gross": 162798565,
+    "inflation_adjustes_gross": 288981698
+  },
+  {
+    "movie_title": "Enemy of the State",
+    "release_date": "1998-11-20",
+    "genre": "Action",
+    "mpaa_rating": "R",
+    "total_gross": 111549836,
+    "inflation_adjustes_gross": 198472008
+  },
+  {
+    "movie_title": "Rushmore",
+    "release_date": "1998-12-11",
+    "genre": "Black Comedy",
+    "mpaa_rating": "R",
+    "total_gross": 17105219,
+    "inflation_adjustes_gross": 28392518
+  },
+  {
+    "movie_title": "A Civil Action",
+    "release_date": "1998-12-25",
+    "genre": "Drama",
+    "mpaa_rating": "PG-13",
+    "total_gross": 56709981,
+    "inflation_adjustes_gross": 94139530
+  },
+  {
+    "movie_title": "Mighty Joe Young",
+    "release_date": "1998-12-25",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 50632037,
+    "inflation_adjustes_gross": 87906042
+  },
+  {
+    "movie_title": "My Favorite Martian",
+    "release_date": "1999-02-12",
+    "genre": "Comedy",
+    "mpaa_rating": "PG",
+    "total_gross": 36850101,
+    "inflation_adjustes_gross": 61150849
+  },
+  {
+    "movie_title": "The Other Sister",
+    "release_date": "1999-02-26",
+    "genre": "Romantic Comedy",
+    "mpaa_rating": "PG-13",
+    "total_gross": 27807627,
+    "inflation_adjustes_gross": 46145331
+  },
+  {
+    "movie_title": "Doug's 1st Movie",
+    "release_date": "1999-03-26",
+    "genre": "Adventure",
+    "mpaa_rating": "G",
+    "total_gross": 19421271,
+    "inflation_adjustes_gross": 32228598
+  },
+  {
+    "movie_title": "Ten Things I Hate About You",
+    "release_date": "1999-03-31",
+    "genre": "Romantic Comedy",
+    "mpaa_rating": "PG-13",
+    "total_gross": 38177966,
+    "inflation_adjustes_gross": 63354375
+  },
+  {
+    "movie_title": "Endurance",
+    "release_date": "1999-05-14",
+    "genre": "Drama",
+    "mpaa_rating": "PG",
+    "total_gross": 229128,
+    "inflation_adjustes_gross": 380218
+  },
+  {
+    "movie_title": "Instinct",
+    "release_date": "1999-06-04",
+    "genre": "Drama",
+    "mpaa_rating": "R",
+    "total_gross": 34105207,
+    "inflation_adjustes_gross": 56595842
+  },
+  {
+    "movie_title": "Tarzan",
+    "release_date": "1999-06-16",
+    "genre": "Adventure",
+    "mpaa_rating": "G",
+    "total_gross": 171091819,
+    "inflation_adjustes_gross": 283900254
+  },
+  {
+    "movie_title": "Summer of Sam",
+    "release_date": "1999-07-02",
+    "genre": "Drama",
+    "mpaa_rating": "R",
+    "total_gross": 19288130,
+    "inflation_adjustes_gross": 32007656
+  },
+  {
+    "movie_title": "Inspector Gadget",
+    "release_date": "1999-07-23",
+    "genre": "Comedy",
+    "mpaa_rating": "PG",
+    "total_gross": 97387965,
+    "inflation_adjustes_gross": 161610341
+  },
+  {
+    "movie_title": "The Sixth Sense",
+    "release_date": "1999-08-06",
+    "genre": "Thriller/Suspense",
+    "mpaa_rating": "PG-13",
+    "total_gross": 293506292,
+    "inflation_adjustes_gross": 485424724
+  },
+  {
+    "movie_title": "The 13th Warrior",
+    "release_date": "1999-08-27",
+    "genre": "Action",
+    "mpaa_rating": "R",
+    "total_gross": 32698899,
+    "inflation_adjustes_gross": 54262148
+  },
+  {
+    "movie_title": "Breakfast of Champions",
+    "release_date": "1999-09-17",
+    "genre": "Comedy",
+    "mpaa_rating": "R",
+    "total_gross": 178287,
+    "inflation_adjustes_gross": 295851
+  },
+  {
+    "movie_title": "Mumford",
+    "release_date": "1999-09-24",
+    "genre": "Comedy",
+    "mpaa_rating": "R",
+    "total_gross": 4559569,
+    "inflation_adjustes_gross": 7566363
+  },
+  {
+    "movie_title": "Mystery Alaska",
+    "release_date": "1999-10-01",
+    "genre": "Comedy",
+    "mpaa_rating": "R",
+    "total_gross": "4559555",
+    "inflation_adjustes_gross": 8891623
+  },
+  {
+    "movie_title": "The Straight Story",
+    "release_date": "1999-10-15",
+    "genre": "Drama",
+    "mpaa_rating": "G",
+    "total_gross": 6197866,
+    "inflation_adjustes_gross": 10111144
+  },
+  {
+    "movie_title": "The Insider",
+    "release_date": "1999-11-05",
+    "genre": "Drama",
+    "mpaa_rating": "R",
+    "total_gross": 28965197,
+    "inflation_adjustes_gross": 47794214
+  },
+  {
+    "movie_title": "Toy Story 2",
+    "release_date": "1999-11-19",
+    "genre": "Adventure",
+    "mpaa_rating": "G",
+    "total_gross": 245852179,
+    "inflation_adjustes_gross": 404450426
+  },
+  {
+    "movie_title": "Cradle Will Rock",
+    "release_date": "1999-12-08",
+    "genre": "Drama",
+    "mpaa_rating": "R",
+    "total_gross": 2899970,
+    "inflation_adjustes_gross": 4609153
+  },
+  {
+    "movie_title": "Deuce Bigalow: Male Gigolo",
+    "release_date": "1999-12-10",
+    "genre": "Comedy",
+    "mpaa_rating": "R",
+    "total_gross": 65535067,
+    "inflation_adjustes_gross": 106921374
+  },
+  {
+    "movie_title": "Bicentennial Man",
+    "release_date": "1999-12-17",
+    "genre": "Drama",
+    "mpaa_rating": "PG",
+    "total_gross": 58220776,
+    "inflation_adjustes_gross": 94838225
+  },
+  {
+    "movie_title": "Play it to the Bone",
+    "release_date": "1999-12-24",
+    "genre": "Comedy",
+    "mpaa_rating": "R",
+    "total_gross": 8427204,
+    "inflation_adjustes_gross": 13180524
+  },
+  {
+    "movie_title": "Fantasia 2000 (IMAX)",
+    "release_date": "2000-01-01",
+    "genre": "Musical",
+    "mpaa_rating": "G",
+    "total_gross": 60507228,
+    "inflation_adjustes_gross": 94852354
+  },
+  {
+    "movie_title": "Gun Shy",
+    "release_date": "2000-02-04",
+    "genre": "Comedy",
+    "mpaa_rating": "R",
+    "total_gross": 1638202,
+    "inflation_adjustes_gross": 2562155
+  },
+  {
+    "movie_title": "The Tigger Movie",
+    "release_date": "2000-02-11",
+    "genre": "Adventure",
+    "mpaa_rating": "G",
+    "total_gross": 45542421,
+    "inflation_adjustes_gross": 71228678
+  },
+  {
+    "movie_title": "Mission to Mars",
+    "release_date": "2000-03-10",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 60874615,
+    "inflation_adjustes_gross": 95208344
+  },
+  {
+    "movie_title": "High Fidelity",
+    "release_date": "2000-03-31",
+    "genre": "Comedy",
+    "mpaa_rating": "R",
+    "total_gross": 27277055,
+    "inflation_adjustes_gross": 42661516
+  },
+  {
+    "movie_title": "Keeping the Faith",
+    "release_date": "2000-04-14",
+    "genre": "Romantic Comedy",
+    "mpaa_rating": "PG-13",
+    "total_gross": 37036404,
+    "inflation_adjustes_gross": 57925202
+  },
+  {
+    "movie_title": "Dinosaur",
+    "release_date": "2000-05-19",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 137748063,
+    "inflation_adjustes_gross": 215438985
+  },
+  {
+    "movie_title": "Shanghai Noon",
+    "release_date": "2000-05-26",
+    "genre": "Western",
+    "mpaa_rating": "PG-13",
+    "total_gross": 56932305,
+    "inflation_adjustes_gross": 89042541
+  },
+  {
+    "movie_title": "Gone in 60 Seconds",
+    "release_date": "2000-06-09",
+    "genre": "Action",
+    "mpaa_rating": "PG-13",
+    "total_gross": 101643008,
+    "inflation_adjustes_gross": 158970411
+  },
+  {
+    "movie_title": "Fantasia 2000 (Theatrical Release)",
+    "release_date": "2000-06-16",
+    "genre": "Musical",
+    "mpaa_rating": "G",
+    "total_gross": 9103630,
+    "inflation_adjustes_gross": 14238144
+  },
+  {
+    "movie_title": "The Kid",
+    "release_date": "2000-07-07",
+    "genre": "Comedy",
+    "mpaa_rating": "PG",
+    "total_gross": 69688384,
+    "inflation_adjustes_gross": 108993148
+  },
+  {
+    "movie_title": "Coyote Ugly",
+    "release_date": "2000-08-04",
+    "genre": "Drama",
+    "mpaa_rating": "PG-13",
+    "total_gross": 60786269,
+    "inflation_adjustes_gross": 95070168
+  },
+  {
+    "movie_title": "The Crew",
+    "release_date": "2000-08-25",
+    "genre": "Comedy",
+    "mpaa_rating": "PG-13",
+    "total_gross": 13019253,
+    "inflation_adjustes_gross": 20362201
+  },
+  {
+    "movie_title": "Duets",
+    "release_date": "2000-09-15",
+    "genre": "Drama",
+    "mpaa_rating": "R",
+    "total_gross": 4734235,
+    "inflation_adjustes_gross": 7404372
+  },
+  {
+    "movie_title": "Remember the Titans",
+    "release_date": "2000-09-29",
+    "genre": "Drama",
+    "mpaa_rating": "PG",
+    "total_gross": 115654751,
+    "inflation_adjustes_gross": 180742479
+  },
+  {
+    "movie_title": "Unbreakable",
+    "release_date": "2000-11-22",
+    "genre": "Thriller/Suspense",
+    "mpaa_rating": "PG-13",
+    "total_gross": 94999143,
+    "inflation_adjustes_gross": 148208901
+  },
+  {
+    "movie_title": "102 Dalmatians",
+    "release_date": "2000-11-22",
+    "genre": "Comedy",
+    "mpaa_rating": "G",
+    "total_gross": 66941559,
+    "inflation_adjustes_gross": 104055039
+  },
+  {
+    "movie_title": "The Emperor's New Groove",
+    "release_date": "2000-12-15",
+    "genre": "Adventure",
+    "mpaa_rating": "G",
+    "total_gross": 89296573,
+    "inflation_adjustes_gross": 136789252
+  },
+  {
+    "movie_title": "O Brother Where Are You",
+    "release_date": "2000-12-22",
+    "genre": "Comedy",
+    "mpaa_rating": "PG-13",
+    "total_gross": "8929657",
+    "inflation_adjustes_gross": 45506619
+  },
+  {
+    "movie_title": "Double Take",
+    "release_date": "2001-01-12",
+    "genre": "Action",
+    "mpaa_rating": "PG-13",
+    "total_gross": 29823162,
+    "inflation_adjustes_gross": 44418589
+  },
+  {
+    "movie_title": "Recess: School's Out",
+    "release_date": "2001-02-16",
+    "genre": "Comedy",
+    "mpaa_rating": "G",
+    "total_gross": 36696761,
+    "inflation_adjustes_gross": 54656124
+  },
+  {
+    "movie_title": "Just Visiting",
+    "release_date": "2001-04-06",
+    "genre": "Comedy",
+    "mpaa_rating": "PG-13",
+    "total_gross": 4777007,
+    "inflation_adjustes_gross": 7114869
+  },
+  {
+    "movie_title": "Pearl Harbor",
+    "release_date": "2001-05-25",
+    "genre": "Action",
+    "mpaa_rating": "PG-13",
+    "total_gross": 198539855,
+    "inflation_adjustes_gross": 295705112
+  },
+  {
+    "movie_title": "Atlantis: The Lost Empire",
+    "release_date": "2001-06-08",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 84052762,
+    "inflation_adjustes_gross": 125188122
+  },
+  {
+    "movie_title": "crazy/beautiful",
+    "release_date": "2001-06-29",
+    "genre": "Drama",
+    "mpaa_rating": "PG-13",
+    "total_gross": 16929123,
+    "inflation_adjustes_gross": 25214223
+  },
+  {
+    "movie_title": "The Princess Diaries",
+    "release_date": "2001-08-03",
+    "genre": "Comedy",
+    "mpaa_rating": "G",
+    "total_gross": 108244774,
+    "inflation_adjustes_gross": 161218928
+  },
+  {
+    "movie_title": "Bubble Boy",
+    "release_date": "2001-08-24",
+    "genre": "Comedy",
+    "mpaa_rating": "PG-13",
+    "total_gross": 5002310,
+    "inflation_adjustes_gross": 7450434
+  },
+  {
+    "movie_title": "Max Keeble's Big Move",
+    "release_date": "2001-10-05",
+    "genre": "Comedy",
+    "mpaa_rating": "PG",
+    "total_gross": 17292381,
+    "inflation_adjustes_gross": 25749730
+  },
+  {
+    "movie_title": "Corky Romano",
+    "release_date": "2001-10-12",
+    "genre": "Comedy",
+    "mpaa_rating": "PG-13",
+    "total_gross": 23978402,
+    "inflation_adjustes_gross": 35705805
+  },
+  {
+    "movie_title": "High Heels and Low Lifes",
+    "release_date": "2001-10-26",
+    "genre": "Comedy",
+    "mpaa_rating": "R",
+    "total_gross": 226792,
+    "inflation_adjustes_gross": 337782
+  },
+  {
+    "movie_title": "Monsters Inc",
+    "release_date": "2001-11-02",
+    "genre": "Adventure",
+    "mpaa_rating": "G",
+    "total_gross": "226792",
+    "inflation_adjustes_gross": 289423425
+  },
+  {
+    "movie_title": "Out Cold",
+    "release_date": "2001-11-21",
+    "genre": "Comedy",
+    "mpaa_rating": "PG-13",
+    "total_gross": 13906394,
+    "inflation_adjustes_gross": 20700691
+  },
+  {
+    "movie_title": "The Royal Tenenbaums",
+    "release_date": "2001-12-14",
+    "genre": "Black Comedy",
+    "mpaa_rating": "R",
+    "total_gross": 52353636,
+    "inflation_adjustes_gross": 76758193
+  },
+  {
+    "movie_title": "Beauty and the Beast (IMAX)",
+    "release_date": "2002-01-01",
+    "genre": "Musical",
+    "mpaa_rating": "G",
+    "total_gross": 25487028,
+    "inflation_adjustes_gross": 36980311
+  },
+  {
+    "movie_title": "Frank McKlusky C.I.",
+    "release_date": "2002-01-01",
+    "genre": "",
+    "mpaa_rating": "",
+    "total_gross": 0,
+    "inflation_adjustes_gross": 0
+  },
+  {
+    "movie_title": "Snow Dogs",
+    "release_date": "2002-01-18",
+    "genre": "Comedy",
+    "mpaa_rating": "PG",
+    "total_gross": 81150692,
+    "inflation_adjustes_gross": 117745317
+  },
+  {
+    "movie_title": "The Count of Monte Cristo",
+    "release_date": "2002-01-25",
+    "genre": "Drama",
+    "mpaa_rating": "PG-13",
+    "total_gross": 54228104,
+    "inflation_adjustes_gross": 78682079
+  },
+  {
+    "movie_title": "Peter Pan: Return to Neverland",
+    "release_date": "2002-02-15",
+    "genre": "Adventure",
+    "mpaa_rating": "G",
+    "total_gross": 48430258,
+    "inflation_adjustes_gross": 70269715
+  },
+  {
+    "movie_title": "Reign of Fire",
+    "release_date": "2002-02-19",
+    "genre": "Action",
+    "mpaa_rating": "PG-13",
+    "total_gross": 43061982,
+    "inflation_adjustes_gross": 62480631
+  },
+  {
+    "movie_title": "Sorority Boys",
+    "release_date": "2002-03-22",
+    "genre": "Comedy",
+    "mpaa_rating": "R",
+    "total_gross": 10198766,
+    "inflation_adjustes_gross": 14797862
+  },
+  {
+    "movie_title": "The Rookie",
+    "release_date": "2002-03-29",
+    "genre": "Drama",
+    "mpaa_rating": "G",
+    "total_gross": 75600072,
+    "inflation_adjustes_gross": 109691666
+  },
+  {
+    "movie_title": "Big Trouble",
+    "release_date": "2002-04-05",
+    "genre": "Comedy",
+    "mpaa_rating": "PG-13",
+    "total_gross": 7262288,
+    "inflation_adjustes_gross": 10537188
+  },
+  {
+    "movie_title": "ESPN's Ultimate X - The Movie",
+    "release_date": "2002-05-10",
+    "genre": "Documentary",
+    "mpaa_rating": "PG",
+    "total_gross": 4197175,
+    "inflation_adjustes_gross": 6089874
+  },
+  {
+    "movie_title": "Bad Company",
+    "release_date": "2002-06-07",
+    "genre": "Action",
+    "mpaa_rating": "PG-13",
+    "total_gross": 30157016,
+    "inflation_adjustes_gross": 43756218
+  },
+  {
+    "movie_title": "Lilo & Stitch",
+    "release_date": "2002-06-21",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 145771527,
+    "inflation_adjustes_gross": 211506702
+  },
+  {
+    "movie_title": "The Country Bears",
+    "release_date": "2002-07-26",
+    "genre": "Adventure",
+    "mpaa_rating": "G",
+    "total_gross": 16988996,
+    "inflation_adjustes_gross": 24650121
+  },
+  {
+    "movie_title": "Signs",
+    "release_date": "2002-08-02",
+    "genre": "Thriller/Suspense",
+    "mpaa_rating": "PG-13",
+    "total_gross": 227965690,
+    "inflation_adjustes_gross": 330754439
+  },
+  {
+    "movie_title": "Sen to Chihiro no Kamikakushi",
+    "release_date": "2002-09-20",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 10049886,
+    "inflation_adjustes_gross": 14338992
+  },
+  {
+    "movie_title": "Sweet Home Alabama",
+    "release_date": "2002-09-27",
+    "genre": "Comedy",
+    "mpaa_rating": "PG-13",
+    "total_gross": 127214072,
+    "inflation_adjustes_gross": 184521151
+  },
+  {
+    "movie_title": "Moonlight Mile",
+    "release_date": "2002-09-27",
+    "genre": "Drama",
+    "mpaa_rating": "PG-13",
+    "total_gross": 6830957,
+    "inflation_adjustes_gross": 9909094
+  },
+  {
+    "movie_title": "Tuck Everlasting",
+    "release_date": "2002-10-11",
+    "genre": "Drama",
+    "mpaa_rating": "PG",
+    "total_gross": 19161999,
+    "inflation_adjustes_gross": 27789959
+  },
+  {
+    "movie_title": "The Santa Clause 2",
+    "release_date": "2002-11-01",
+    "genre": "Comedy",
+    "mpaa_rating": "G",
+    "total_gross": 139225854,
+    "inflation_adjustes_gross": 201959095
+  },
+  {
+    "movie_title": "Treasure Planet",
+    "release_date": "2002-11-27",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 38120554,
+    "inflation_adjustes_gross": 55189145
+  },
+  {
+    "movie_title": "The Hot Chick",
+    "release_date": "2002-12-13",
+    "genre": "Comedy",
+    "mpaa_rating": "PG-13",
+    "total_gross": 35081550,
+    "inflation_adjustes_gross": 50624654
+  },
+  {
+    "movie_title": "25th Hour",
+    "release_date": "2002-12-19",
+    "genre": "Drama",
+    "mpaa_rating": "R",
+    "total_gross": 13084595,
+    "inflation_adjustes_gross": 18325463
+  },
+  {
+    "movie_title": "The Recruit",
+    "release_date": "2003-01-31",
+    "genre": "Thriller/Suspense",
+    "mpaa_rating": "PG-13",
+    "total_gross": 52784696,
+    "inflation_adjustes_gross": 73793522
+  },
+  {
+    "movie_title": "Shanghai Knights",
+    "release_date": "2003-02-07",
+    "genre": "Adventure",
+    "mpaa_rating": "PG-13",
+    "total_gross": 60470220,
+    "inflation_adjustes_gross": 84537962
+  },
+  {
+    "movie_title": "The Jungle Book 2",
+    "release_date": "2003-02-14",
+    "genre": "Adventure",
+    "mpaa_rating": "G",
+    "total_gross": 47901582,
+    "inflation_adjustes_gross": 66966883
+  },
+  {
+    "movie_title": "Bringing Down the House",
+    "release_date": "2003-03-07",
+    "genre": "Comedy",
+    "mpaa_rating": "PG-13",
+    "total_gross": 132675402,
+    "inflation_adjustes_gross": 185481530
+  },
+  {
+    "movie_title": "Piglet's Big Movie",
+    "release_date": "2003-03-21",
+    "genre": "Comedy",
+    "mpaa_rating": "G",
+    "total_gross": 23103423,
+    "inflation_adjustes_gross": 32298812
+  },
+  {
+    "movie_title": "Ghosts of the Abyss",
+    "release_date": "2003-04-11",
+    "genre": "Documentary",
+    "mpaa_rating": "G",
+    "total_gross": 17093668,
+    "inflation_adjustes_gross": 23803108
+  },
+  {
+    "movie_title": "Holes",
+    "release_date": "2003-04-18",
+    "genre": "Drama",
+    "mpaa_rating": "PG",
+    "total_gross": 67383924,
+    "inflation_adjustes_gross": 94203395
+  },
+  {
+    "movie_title": "The Lizzie McGuire Movie",
+    "release_date": "2003-05-02",
+    "genre": "Comedy",
+    "mpaa_rating": "PG",
+    "total_gross": 42734455,
+    "inflation_adjustes_gross": 59743191
+  },
+  {
+    "movie_title": "Finding Nemo",
+    "release_date": "2003-05-30",
+    "genre": "Adventure",
+    "mpaa_rating": "G",
+    "total_gross": 380529370,
+    "inflation_adjustes_gross": 518148559
+  },
+  {
+    "movie_title": "Pirates of the Caribbean: The Curse oвЂ¦",
+    "release_date": "2003-07-09",
+    "genre": "Adventure",
+    "mpaa_rating": "PG-13",
+    "total_gross": 305411224,
+    "inflation_adjustes_gross": 426967926
+  },
+  {
+    "movie_title": "Freaky Friday",
+    "release_date": "2003-08-06",
+    "genre": "Comedy",
+    "mpaa_rating": "PG",
+    "total_gross": 110222438,
+    "inflation_adjustes_gross": 154090360
+  },
+  {
+    "movie_title": "Open Range",
+    "release_date": "2003-08-15",
+    "genre": "Western",
+    "mpaa_rating": "R",
+    "total_gross": 58331254,
+    "inflation_adjustes_gross": 81547672
+  },
+  {
+    "movie_title": "Cold Creek Manor",
+    "release_date": "2003-09-19",
+    "genre": "Thriller/Suspense",
+    "mpaa_rating": "R",
+    "total_gross": 21384035,
+    "inflation_adjustes_gross": 29895090
+  },
+  {
+    "movie_title": "Under the Tuscan Sun",
+    "release_date": "2003-09-26",
+    "genre": "Comedy",
+    "mpaa_rating": "PG-13",
+    "total_gross": 43601508,
+    "inflation_adjustes_gross": 60944053
+  },
+  {
+    "movie_title": "Veronica Guerin",
+    "release_date": "2003-10-17",
+    "genre": "Drama",
+    "mpaa_rating": "R",
+    "total_gross": 1569918,
+    "inflation_adjustes_gross": 2194759
+  },
+  {
+    "movie_title": "Brother Bear",
+    "release_date": "2003-10-24",
+    "genre": "Adventure",
+    "mpaa_rating": "G",
+    "total_gross": 85336277,
+    "inflation_adjustes_gross": 119218333
+  },
+  {
+    "movie_title": "The Haunted Mansion",
+    "release_date": "2003-11-26",
+    "genre": "Comedy",
+    "mpaa_rating": "PG",
+    "total_gross": 75817994,
+    "inflation_adjustes_gross": 105775678
+  },
+  {
+    "movie_title": "Calendar Girls",
+    "release_date": "2003-12-19",
+    "genre": "Comedy",
+    "mpaa_rating": "PG-13",
+    "total_gross": 31011616,
+    "inflation_adjustes_gross": 42379650
+  },
+  {
+    "movie_title": "Young Black Stallion",
+    "release_date": "2003-12-25",
+    "genre": "Adventure",
+    "mpaa_rating": "G",
+    "total_gross": 6751389,
+    "inflation_adjustes_gross": 9254344
+  },
+  {
+    "movie_title": "Teacher's Pet: The Movie",
+    "release_date": "2004-01-16",
+    "genre": "Comedy",
+    "mpaa_rating": "PG",
+    "total_gross": 6491969,
+    "inflation_adjustes_gross": 8812764
+  },
+  {
+    "movie_title": "Miracle",
+    "release_date": "2004-02-06",
+    "genre": "Drama",
+    "mpaa_rating": "PG",
+    "total_gross": 64378093,
+    "inflation_adjustes_gross": 87392478
+  },
+  {
+    "movie_title": "Confessions of a Teenage Drama Queen",
+    "release_date": "2004-02-20",
+    "genre": "Comedy",
+    "mpaa_rating": "PG",
+    "total_gross": 29331068,
+    "inflation_adjustes_gross": 39816568
+  },
+  {
+    "movie_title": "Hidalgo",
+    "release_date": "2004-03-05",
+    "genre": "Western",
+    "mpaa_rating": "PG-13",
+    "total_gross": 67286731,
+    "inflation_adjustes_gross": 91340921
+  },
+  {
+    "movie_title": "The Ladykillers",
+    "release_date": "2004-03-26",
+    "genre": "Comedy",
+    "mpaa_rating": "R",
+    "total_gross": 39692139,
+    "inflation_adjustes_gross": 53881593
+  },
+  {
+    "movie_title": "Home on the Range",
+    "release_date": "2004-04-02",
+    "genre": "Comedy",
+    "mpaa_rating": "PG",
+    "total_gross": 50026353,
+    "inflation_adjustes_gross": 67910166
+  },
+  {
+    "movie_title": "The Alamo",
+    "release_date": "2004-04-09",
+    "genre": "Western",
+    "mpaa_rating": "PG-13",
+    "total_gross": 22406362,
+    "inflation_adjustes_gross": 30416359
+  },
+  {
+    "movie_title": "Raising Helen",
+    "release_date": "2004-05-28",
+    "genre": "Comedy",
+    "mpaa_rating": "PG-13",
+    "total_gross": 37485528,
+    "inflation_adjustes_gross": 50886144
+  },
+  {
+    "movie_title": "Around the World in 80 Days",
+    "release_date": "2004-06-16",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 24004159,
+    "inflation_adjustes_gross": 32585356
+  },
+  {
+    "movie_title": "America's Heart and Soul",
+    "release_date": "2004-07-02",
+    "genre": "Documentary",
+    "mpaa_rating": "Not Rated",
+    "total_gross": 314000,
+    "inflation_adjustes_gross": 426246
+  },
+  {
+    "movie_title": "King Arthur",
+    "release_date": "2004-07-07",
+    "genre": "Adventure",
+    "mpaa_rating": "PG-13",
+    "total_gross": 51877963,
+    "inflation_adjustes_gross": 70423706
+  },
+  {
+    "movie_title": "The Village",
+    "release_date": "2004-07-30",
+    "genre": "Thriller/Suspense",
+    "mpaa_rating": "PG-13",
+    "total_gross": 114197520,
+    "inflation_adjustes_gross": 155021748
+  },
+  {
+    "movie_title": "The Princess Diaries 2: Royal Engagement",
+    "release_date": "2004-08-11",
+    "genre": "Romantic Comedy",
+    "mpaa_rating": "G",
+    "total_gross": 95149435,
+    "inflation_adjustes_gross": 129164207
+  },
+  {
+    "movie_title": "Mr. 3000",
+    "release_date": "2004-09-17",
+    "genre": "Comedy",
+    "mpaa_rating": "PG-13",
+    "total_gross": 21800302,
+    "inflation_adjustes_gross": 29593641
+  },
+  {
+    "movie_title": "The Last Shot",
+    "release_date": "2004-09-24",
+    "genre": "Comedy",
+    "mpaa_rating": "R",
+    "total_gross": 463730,
+    "inflation_adjustes_gross": 629502
+  },
+  {
+    "movie_title": "Ladder 49",
+    "release_date": "2004-10-01",
+    "genre": "Action",
+    "mpaa_rating": "PG-13",
+    "total_gross": 74541707,
+    "inflation_adjustes_gross": 101161045
+  },
+  {
+    "movie_title": "The Incredibles",
+    "release_date": "2004-11-05",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 261441092,
+    "inflation_adjustes_gross": 354488708
+  },
+  {
+    "movie_title": "National Treasure",
+    "release_date": "2004-11-19",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 173005002,
+    "inflation_adjustes_gross": 234069353
+  },
+  {
+    "movie_title": "The Life Aquatic with Steve Zissou",
+    "release_date": "2004-12-10",
+    "genre": "Comedy",
+    "mpaa_rating": "R",
+    "total_gross": 24006726,
+    "inflation_adjustes_gross": 32198655
+  },
+  {
+    "movie_title": "Aliens of the Deep",
+    "release_date": "2005-01-28",
+    "genre": "Documentary",
+    "mpaa_rating": "G",
+    "total_gross": 8968684,
+    "inflation_adjustes_gross": 11740942
+  },
+  {
+    "movie_title": "Pooh's Heffalump Movie",
+    "release_date": "2005-02-11",
+    "genre": "Adventure",
+    "mpaa_rating": "G",
+    "total_gross": 18098433,
+    "inflation_adjustes_gross": 23801835
+  },
+  {
+    "movie_title": "The Pacifier",
+    "release_date": "2005-03-04",
+    "genre": "Comedy",
+    "mpaa_rating": "PG",
+    "total_gross": 113006880,
+    "inflation_adjustes_gross": 148619029
+  },
+  {
+    "movie_title": "Ice Princess",
+    "release_date": "2005-03-18",
+    "genre": "Comedy",
+    "mpaa_rating": "G",
+    "total_gross": 24381334,
+    "inflation_adjustes_gross": 32064685
+  },
+  {
+    "movie_title": "A Lot Like Love",
+    "release_date": "2005-04-22",
+    "genre": "Comedy",
+    "mpaa_rating": "PG-13",
+    "total_gross": 21835784,
+    "inflation_adjustes_gross": 28716947
+  },
+  {
+    "movie_title": "The Hitchhiker's Guide to the Galaxy",
+    "release_date": "2005-04-29",
+    "genre": "Comedy",
+    "mpaa_rating": "PG",
+    "total_gross": 51019112,
+    "inflation_adjustes_gross": 67096891
+  },
+  {
+    "movie_title": "Hauru no ugoku shiro",
+    "release_date": "2005-06-10",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 4710455,
+    "inflation_adjustes_gross": 6194870
+  },
+  {
+    "movie_title": "Herbie: Fully Loaded",
+    "release_date": "2005-06-22",
+    "genre": "Comedy",
+    "mpaa_rating": "G",
+    "total_gross": 66010682,
+    "inflation_adjustes_gross": 86812798
+  },
+  {
+    "movie_title": "Dark Water",
+    "release_date": "2005-07-08",
+    "genre": "Thriller/Suspense",
+    "mpaa_rating": "PG-13",
+    "total_gross": 25473093,
+    "inflation_adjustes_gross": 33500491
+  },
+  {
+    "movie_title": "Sky High",
+    "release_date": "2005-07-29",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 63939454,
+    "inflation_adjustes_gross": 84088854
+  },
+  {
+    "movie_title": "Valiant",
+    "release_date": "2005-08-19",
+    "genre": "Adventure",
+    "mpaa_rating": "G",
+    "total_gross": 19478106,
+    "inflation_adjustes_gross": 25616292
+  },
+  {
+    "movie_title": "Flightplan",
+    "release_date": "2005-09-23",
+    "genre": "Thriller/Suspense",
+    "mpaa_rating": "PG-13",
+    "total_gross": 89706988,
+    "inflation_adjustes_gross": 117960425
+  },
+  {
+    "movie_title": "The Greatest Game Ever Played",
+    "release_date": "2005-09-30",
+    "genre": "Drama",
+    "mpaa_rating": "PG",
+    "total_gross": 15331289,
+    "inflation_adjustes_gross": 20162672
+  },
+  {
+    "movie_title": "Shopgirl",
+    "release_date": "2005-10-21",
+    "genre": "Drama",
+    "mpaa_rating": "R",
+    "total_gross": 10284523,
+    "inflation_adjustes_gross": 13519621
+  },
+  {
+    "movie_title": "Chicken Little",
+    "release_date": "2005-11-04",
+    "genre": "Adventure",
+    "mpaa_rating": "G",
+    "total_gross": 135386665,
+    "inflation_adjustes_gross": 177954661
+  },
+  {
+    "movie_title": "The Chronicles of Narnia: The Lion",
+    "release_date": "2005-12-09",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": "135386674",
+    "inflation_adjustes_gross": 291710957
+  },
+  {
+    "movie_title": "Casanova",
+    "release_date": "2005-12-25",
+    "genre": "Drama",
+    "mpaa_rating": "R",
+    "total_gross": 11304403,
+    "inflation_adjustes_gross": 14574087
+  },
+  {
+    "movie_title": "Glory Road",
+    "release_date": "2006-01-13",
+    "genre": "Drama",
+    "mpaa_rating": "PG",
+    "total_gross": 42647449,
+    "inflation_adjustes_gross": 54888236
+  },
+  {
+    "movie_title": "Annapolis",
+    "release_date": "2006-01-27",
+    "genre": "Drama",
+    "mpaa_rating": "PG-13",
+    "total_gross": 17127992,
+    "inflation_adjustes_gross": 22044113
+  },
+  {
+    "movie_title": "Roving Mars",
+    "release_date": "2006-01-27",
+    "genre": "Documentary",
+    "mpaa_rating": "G",
+    "total_gross": 10407978,
+    "inflation_adjustes_gross": 12948025
+  },
+  {
+    "movie_title": "Eight Below",
+    "release_date": "2006-02-17",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 81612565,
+    "inflation_adjustes_gross": 105037235
+  },
+  {
+    "movie_title": "The Shaggy Dog",
+    "release_date": "2006-03-10",
+    "genre": "Comedy",
+    "mpaa_rating": "PG",
+    "total_gross": 61123569,
+    "inflation_adjustes_gross": 78667428
+  },
+  {
+    "movie_title": "Stay Alive",
+    "release_date": "2006-03-24",
+    "genre": "Horror",
+    "mpaa_rating": "PG-13",
+    "total_gross": 23086480,
+    "inflation_adjustes_gross": 29712825
+  },
+  {
+    "movie_title": "The Wild",
+    "release_date": "2006-04-14",
+    "genre": "Adventure",
+    "mpaa_rating": "G",
+    "total_gross": 37384046,
+    "inflation_adjustes_gross": 48114115
+  },
+  {
+    "movie_title": "Stick It",
+    "release_date": "2006-04-28",
+    "genre": "Comedy",
+    "mpaa_rating": "PG-13",
+    "total_gross": 26910736,
+    "inflation_adjustes_gross": 34634731
+  },
+  {
+    "movie_title": "Goal! The Dream Begins",
+    "release_date": "2006-05-12",
+    "genre": "Drama",
+    "mpaa_rating": "PG",
+    "total_gross": 4283255,
+    "inflation_adjustes_gross": 5512647
+  },
+  {
+    "movie_title": "Cars",
+    "release_date": "2006-06-09",
+    "genre": "Comedy",
+    "mpaa_rating": "G",
+    "total_gross": 244082982,
+    "inflation_adjustes_gross": 314140384
+  },
+  {
+    "movie_title": "Pirates of the Caribbean: Dead ManвЂ™вЂ¦",
+    "release_date": "2006-07-07",
+    "genre": "Adventure",
+    "mpaa_rating": "PG-13",
+    "total_gross": 423315812,
+    "inflation_adjustes_gross": 544817142
+  },
+  {
+    "movie_title": "Step Up",
+    "release_date": "2006-08-11",
+    "genre": "Drama",
+    "mpaa_rating": "PG-13",
+    "total_gross": 65328121,
+    "inflation_adjustes_gross": 84078780
+  },
+  {
+    "movie_title": "Invincible",
+    "release_date": "2006-08-25",
+    "genre": "Drama",
+    "mpaa_rating": "PG",
+    "total_gross": 57806952,
+    "inflation_adjustes_gross": 74398864
+  },
+  {
+    "movie_title": "The Guardian",
+    "release_date": "2006-09-29",
+    "genre": "Action",
+    "mpaa_rating": "PG-13",
+    "total_gross": 55011732,
+    "inflation_adjustes_gross": 70801353
+  },
+  {
+    "movie_title": "The Prestige",
+    "release_date": "2006-10-20",
+    "genre": "Thriller/Suspense",
+    "mpaa_rating": "PG-13",
+    "total_gross": 53089891,
+    "inflation_adjustes_gross": 68289913
+  },
+  {
+    "movie_title": "Tim Burton's The Nightmare Before ChrвЂ¦",
+    "release_date": "2006-10-20",
+    "genre": "Musical",
+    "mpaa_rating": "PG",
+    "total_gross": 24732041,
+    "inflation_adjustes_gross": 30737517
+  },
+  {
+    "movie_title": "The Santa Clause 3: The Escape Clause",
+    "release_date": "2006-11-03",
+    "genre": "Comedy",
+    "mpaa_rating": "G",
+    "total_gross": 84500122,
+    "inflation_adjustes_gross": 108694869
+  },
+  {
+    "movie_title": "Apocalypto",
+    "release_date": "2006-12-08",
+    "genre": "Adventure",
+    "mpaa_rating": "R",
+    "total_gross": 50866635,
+    "inflation_adjustes_gross": 64959548
+  },
+  {
+    "movie_title": "Primeval",
+    "release_date": "2007-01-12",
+    "genre": "Adventure",
+    "mpaa_rating": "R",
+    "total_gross": 10597734,
+    "inflation_adjustes_gross": 12985302
+  },
+  {
+    "movie_title": "Bridge to Terabithia",
+    "release_date": "2007-02-16",
+    "genre": "Drama",
+    "mpaa_rating": "PG",
+    "total_gross": 82234139,
+    "inflation_adjustes_gross": 100760721
+  },
+  {
+    "movie_title": "Wild Hogs",
+    "release_date": "2007-03-02",
+    "genre": "Comedy",
+    "mpaa_rating": "PG-13",
+    "total_gross": 168213584,
+    "inflation_adjustes_gross": 206110533
+  },
+  {
+    "movie_title": "Meet the Robinsons",
+    "release_date": "2007-03-30",
+    "genre": "Adventure",
+    "mpaa_rating": "G",
+    "total_gross": 97822171,
+    "inflation_adjustes_gross": 119860589
+  },
+  {
+    "movie_title": "The Lookout",
+    "release_date": "2007-03-30",
+    "genre": "Drama",
+    "mpaa_rating": "R",
+    "total_gross": 4600585,
+    "inflation_adjustes_gross": 5637048
+  },
+  {
+    "movie_title": "The Hoax",
+    "release_date": "2007-04-06",
+    "genre": "Drama",
+    "mpaa_rating": "R",
+    "total_gross": 7164995,
+    "inflation_adjustes_gross": 8779196
+  },
+  {
+    "movie_title": "The Invisible",
+    "release_date": "2007-04-27",
+    "genre": "Thriller/Suspense",
+    "mpaa_rating": "PG-13",
+    "total_gross": 20568319,
+    "inflation_adjustes_gross": 25202168
+  },
+  {
+    "movie_title": "Ratatouille",
+    "release_date": "2007-06-29",
+    "genre": "Comedy",
+    "mpaa_rating": "G",
+    "total_gross": 206445654,
+    "inflation_adjustes_gross": 252955933
+  },
+  {
+    "movie_title": "Underdog",
+    "release_date": "2007-08-03",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 43760605,
+    "inflation_adjustes_gross": 53619462
+  },
+  {
+    "movie_title": "The Game Plan",
+    "release_date": "2007-09-22",
+    "genre": "Comedy",
+    "mpaa_rating": "PG",
+    "total_gross": 90648202,
+    "inflation_adjustes_gross": 111010758
+  },
+  {
+    "movie_title": "Dan in Real Life",
+    "release_date": "2007-10-20",
+    "genre": "Romantic Comedy",
+    "mpaa_rating": "PG-13",
+    "total_gross": 47642963,
+    "inflation_adjustes_gross": 58350234
+  },
+  {
+    "movie_title": "Enchanted",
+    "release_date": "2007-11-21",
+    "genre": "Romantic Comedy",
+    "mpaa_rating": "PG",
+    "total_gross": 127706877,
+    "inflation_adjustes_gross": 156074310
+  },
+  {
+    "movie_title": "National Treasure 2: Book of Secrets",
+    "release_date": "2007-12-21",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 219961501,
+    "inflation_adjustes_gross": 267003525
+  },
+  {
+    "movie_title": "Hannah Montana/Miley Cyrus: Best of BвЂ¦",
+    "release_date": "2008-02-01",
+    "genre": "Concert/Performance",
+    "mpaa_rating": "G",
+    "total_gross": 65281781,
+    "inflation_adjustes_gross": 76646993
+  },
+  {
+    "movie_title": "Step Up 2 the Streets",
+    "release_date": "2008-02-14",
+    "genre": "Drama",
+    "mpaa_rating": "PG-13",
+    "total_gross": 58017783,
+    "inflation_adjustes_gross": 68118371
+  },
+  {
+    "movie_title": "College Road Trip",
+    "release_date": "2008-03-07",
+    "genre": "Comedy",
+    "mpaa_rating": "G",
+    "total_gross": 45610425,
+    "inflation_adjustes_gross": 53550960
+  },
+  {
+    "movie_title": "The Chronicles of Narnia: Prince Caspian",
+    "release_date": "2008-05-16",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 141621490,
+    "inflation_adjustes_gross": 166277038
+  },
+  {
+    "movie_title": "WALL-E",
+    "release_date": "2008-06-27",
+    "genre": "Adventure",
+    "mpaa_rating": "G",
+    "total_gross": 223808164,
+    "inflation_adjustes_gross": 262771918
+  },
+  {
+    "movie_title": "Swing Vote",
+    "release_date": "2008-08-01",
+    "genre": "Comedy",
+    "mpaa_rating": "PG-13",
+    "total_gross": 16289867,
+    "inflation_adjustes_gross": 19125841
+  },
+  {
+    "movie_title": "Goal! 2: Living the Dream...",
+    "release_date": "2008-08-29",
+    "genre": "Drama",
+    "mpaa_rating": "PG-13",
+    "total_gross": 225067,
+    "inflation_adjustes_gross": 264247
+  },
+  {
+    "movie_title": "Miracle at St. Anna",
+    "release_date": "2008-09-26",
+    "genre": "Drama",
+    "mpaa_rating": "R",
+    "total_gross": 7916887,
+    "inflation_adjustes_gross": 9295171
+  },
+  {
+    "movie_title": "Beverly Hills Chihuahua",
+    "release_date": "2008-10-03",
+    "genre": "Comedy",
+    "mpaa_rating": "PG",
+    "total_gross": 94514402,
+    "inflation_adjustes_gross": 110932022
+  },
+  {
+    "movie_title": "Morning Light",
+    "release_date": "2008-10-17",
+    "genre": "Documentary",
+    "mpaa_rating": "PG",
+    "total_gross": 275093,
+    "inflation_adjustes_gross": 322979
+  },
+  {
+    "movie_title": "High School Musical 3: Senior Year",
+    "release_date": "2008-10-24",
+    "genre": "Musical",
+    "mpaa_rating": "G",
+    "total_gross": 90559416,
+    "inflation_adjustes_gross": 106308538
+  },
+  {
+    "movie_title": "Bolt",
+    "release_date": "2008-11-21",
+    "genre": "Comedy",
+    "mpaa_rating": "PG",
+    "total_gross": 114053759,
+    "inflation_adjustes_gross": 133702498
+  },
+  {
+    "movie_title": "Bedtime Stories",
+    "release_date": "2008-12-25",
+    "genre": "Comedy",
+    "mpaa_rating": "PG",
+    "total_gross": 110101975,
+    "inflation_adjustes_gross": 128039679
+  },
+  {
+    "movie_title": "Confessions of a Shopaholic",
+    "release_date": "2009-02-13",
+    "genre": "Romantic Comedy",
+    "mpaa_rating": "PG",
+    "total_gross": 44277350,
+    "inflation_adjustes_gross": 49767744
+  },
+  {
+    "movie_title": "Jonas Brothers: The 3D Concert ExperiвЂ¦",
+    "release_date": "2009-02-27",
+    "genre": "Concert/Performance",
+    "mpaa_rating": "G",
+    "total_gross": 38174685,
+    "inflation_adjustes_gross": 38174685
+  },
+  {
+    "movie_title": "Race to Witch Mountain",
+    "release_date": "2009-03-13",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 67172594,
+    "inflation_adjustes_gross": 75501997
+  },
+  {
+    "movie_title": "Hannah Montana the Movie",
+    "release_date": "2009-04-10",
+    "genre": "Drama",
+    "mpaa_rating": "G",
+    "total_gross": 79576189,
+    "inflation_adjustes_gross": 89443640
+  },
+  {
+    "movie_title": "Earth",
+    "release_date": "2009-04-22",
+    "genre": "Documentary",
+    "mpaa_rating": "G",
+    "total_gross": 32011576,
+    "inflation_adjustes_gross": 35981010
+  },
+  {
+    "movie_title": "Up",
+    "release_date": "2009-05-29",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 293004164,
+    "inflation_adjustes_gross": 329336681
+  },
+  {
+    "movie_title": "The Proposal",
+    "release_date": "2009-06-19",
+    "genre": "Romantic Comedy",
+    "mpaa_rating": "PG-13",
+    "total_gross": 163958031,
+    "inflation_adjustes_gross": 184288829
+  },
+  {
+    "movie_title": "G-Force",
+    "release_date": "2009-07-24",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 119436770,
+    "inflation_adjustes_gross": 134246932
+  },
+  {
+    "movie_title": "Gake no ue no Ponyo",
+    "release_date": "2009-08-14",
+    "genre": "Adventure",
+    "mpaa_rating": "G",
+    "total_gross": 15090399,
+    "inflation_adjustes_gross": 16961607
+  },
+  {
+    "movie_title": "X Games 3D: The Movie",
+    "release_date": "2009-08-21",
+    "genre": "Documentary",
+    "mpaa_rating": "PG",
+    "total_gross": 1391434,
+    "inflation_adjustes_gross": 1563976
+  },
+  {
+    "movie_title": "Walt and El Grupo",
+    "release_date": "2009-09-10",
+    "genre": "Documentary",
+    "mpaa_rating": "PG",
+    "total_gross": 20521,
+    "inflation_adjustes_gross": 23064
+  },
+  {
+    "movie_title": "Surrogates",
+    "release_date": "2009-09-25",
+    "genre": "Action",
+    "mpaa_rating": "PG-13",
+    "total_gross": 38577772,
+    "inflation_adjustes_gross": 43361416
+  },
+  {
+    "movie_title": "Toy Story 3D Double Feature",
+    "release_date": "2009-10-02",
+    "genre": "Adventure",
+    "mpaa_rating": "G",
+    "total_gross": 30702446,
+    "inflation_adjustes_gross": 34509545
+  },
+  {
+    "movie_title": "Disney's A Christmas Carol",
+    "release_date": "2009-11-06",
+    "genre": "Drama",
+    "mpaa_rating": "PG",
+    "total_gross": 137855863,
+    "inflation_adjustes_gross": 154927105
+  },
+  {
+    "movie_title": "The Princess and the Frog",
+    "release_date": "2009-11-25",
+    "genre": "Adventure",
+    "mpaa_rating": "G",
+    "total_gross": 104400899,
+    "inflation_adjustes_gross": 116316457
+  },
+  {
+    "movie_title": "Old Dogs",
+    "release_date": "2009-11-25",
+    "genre": "Comedy",
+    "mpaa_rating": "PG",
+    "total_gross": 49492060,
+    "inflation_adjustes_gross": 55503929
+  },
+  {
+    "movie_title": "When in Rome",
+    "release_date": "2010-01-29",
+    "genre": "Romantic Comedy",
+    "mpaa_rating": "PG-13",
+    "total_gross": 32680633,
+    "inflation_adjustes_gross": 34917330
+  },
+  {
+    "movie_title": "Alice in Wonderland",
+    "release_date": "2010-03-05",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 334191110,
+    "inflation_adjustes_gross": 357063499
+  },
+  {
+    "movie_title": "Waking Sleeping Beauty",
+    "release_date": "2010-03-26",
+    "genre": "Documentary",
+    "mpaa_rating": "PG",
+    "total_gross": 80741,
+    "inflation_adjustes_gross": 86264
+  },
+  {
+    "movie_title": "The Last Song",
+    "release_date": "2010-03-31",
+    "genre": "Drama",
+    "mpaa_rating": "PG",
+    "total_gross": 62950384,
+    "inflation_adjustes_gross": 67258772
+  },
+  {
+    "movie_title": "Oceans",
+    "release_date": "2010-04-22",
+    "genre": "Documentary",
+    "mpaa_rating": "G",
+    "total_gross": 19422319,
+    "inflation_adjustes_gross": 20751600
+  },
+  {
+    "movie_title": "Prince of Persia: Sands of Time",
+    "release_date": "2010-05-28",
+    "genre": "Action",
+    "mpaa_rating": "PG-13",
+    "total_gross": 90759676,
+    "inflation_adjustes_gross": 96971361
+  },
+  {
+    "movie_title": "Toy Story 3",
+    "release_date": "2010-06-18",
+    "genre": "Adventure",
+    "mpaa_rating": "G",
+    "total_gross": 415004880,
+    "inflation_adjustes_gross": 443408255
+  },
+  {
+    "movie_title": "The Sorcerer's Apprentice",
+    "release_date": "2010-07-14",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 63150991,
+    "inflation_adjustes_gross": 67473105
+  },
+  {
+    "movie_title": "Step Up 3D",
+    "release_date": "2010-08-06",
+    "genre": "Drama",
+    "mpaa_rating": "PG-13",
+    "total_gross": 42400223,
+    "inflation_adjustes_gross": 45302137
+  },
+  {
+    "movie_title": "Gedo Senki (Tales from Earthsea)",
+    "release_date": "2010-08-13",
+    "genre": "Adventure",
+    "mpaa_rating": "PG-13",
+    "total_gross": 48658,
+    "inflation_adjustes_gross": 51988
+  },
+  {
+    "movie_title": "You Again",
+    "release_date": "2010-09-24",
+    "genre": "Comedy",
+    "mpaa_rating": "PG",
+    "total_gross": 25702053,
+    "inflation_adjustes_gross": 27461121
+  },
+  {
+    "movie_title": "Secretariat",
+    "release_date": "2010-10-08",
+    "genre": "Drama",
+    "mpaa_rating": "PG",
+    "total_gross": 59699513,
+    "inflation_adjustes_gross": 63781920
+  },
+  {
+    "movie_title": "Tangled",
+    "release_date": "2010-11-24",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 200821936,
+    "inflation_adjustes_gross": 214388548
+  },
+  {
+    "movie_title": "Tron: Legacy",
+    "release_date": "2010-12-17",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 172062763,
+    "inflation_adjustes_gross": 183619259
+  },
+  {
+    "movie_title": "Gnomeo and Juliet",
+    "release_date": "2011-02-11",
+    "genre": "Comedy",
+    "mpaa_rating": "G",
+    "total_gross": 99967670,
+    "inflation_adjustes_gross": 106270797
+  },
+  {
+    "movie_title": "I am Number Four",
+    "release_date": "2011-02-18",
+    "genre": "Adventure",
+    "mpaa_rating": "PG-13",
+    "total_gross": 55100437,
+    "inflation_adjustes_gross": 58574607
+  },
+  {
+    "movie_title": "Mars Needs Moms",
+    "release_date": "2011-03-11",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 21392758,
+    "inflation_adjustes_gross": 22741603
+  },
+  {
+    "movie_title": "African Cats",
+    "release_date": "2011-04-22",
+    "genre": "Documentary",
+    "mpaa_rating": "G",
+    "total_gross": 15428747,
+    "inflation_adjustes_gross": 16401551
+  },
+  {
+    "movie_title": "Zokkomon",
+    "release_date": "2011-04-22",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 2815,
+    "inflation_adjustes_gross": 2984
+  },
+  {
+    "movie_title": "Prom",
+    "release_date": "2011-04-29",
+    "genre": "Comedy",
+    "mpaa_rating": "PG",
+    "total_gross": 10130219,
+    "inflation_adjustes_gross": 10768946
+  },
+  {
+    "movie_title": "Pirates of the Caribbean: On StrangerвЂ¦",
+    "release_date": "2011-05-20",
+    "genre": "Adventure",
+    "mpaa_rating": "PG-13",
+    "total_gross": 241063875,
+    "inflation_adjustes_gross": 256263359
+  },
+  {
+    "movie_title": "Cars 2",
+    "release_date": "2011-06-24",
+    "genre": "Adventure",
+    "mpaa_rating": "G",
+    "total_gross": 191450875,
+    "inflation_adjustes_gross": 203522177
+  },
+  {
+    "movie_title": "Winnie the Pooh",
+    "release_date": "2011-07-15",
+    "genre": "Adventure",
+    "mpaa_rating": "G",
+    "total_gross": 26692846,
+    "inflation_adjustes_gross": 28375869
+  },
+  {
+    "movie_title": "The Help",
+    "release_date": "2011-08-10",
+    "genre": "Drama",
+    "mpaa_rating": "PG-13",
+    "total_gross": 169705587,
+    "inflation_adjustes_gross": 180404976
+  },
+  {
+    "movie_title": "Fright Night",
+    "release_date": "2011-08-19",
+    "genre": "Horror",
+    "mpaa_rating": "R",
+    "total_gross": 18298649,
+    "inflation_adjustes_gross": 19452402
+  },
+  {
+    "movie_title": "Real Steel",
+    "release_date": "2011-10-07",
+    "genre": "Action",
+    "mpaa_rating": "PG-13",
+    "total_gross": 85463309,
+    "inflation_adjustes_gross": 90848019
+  },
+  {
+    "movie_title": "The Muppets",
+    "release_date": "2011-11-23",
+    "genre": "Comedy",
+    "mpaa_rating": "PG",
+    "total_gross": 88625922,
+    "inflation_adjustes_gross": 94189503
+  },
+  {
+    "movie_title": "War Horse",
+    "release_date": "2011-12-25",
+    "genre": "Drama",
+    "mpaa_rating": "PG-13",
+    "total_gross": 79883359,
+    "inflation_adjustes_gross": 84762149
+  },
+  {
+    "movie_title": "The Secret World of Arietty",
+    "release_date": "2012-02-17",
+    "genre": "Adventure",
+    "mpaa_rating": "G",
+    "total_gross": 19192510,
+    "inflation_adjustes_gross": 20325733
+  },
+  {
+    "movie_title": "John Carter",
+    "release_date": "2012-03-09",
+    "genre": "Adventure",
+    "mpaa_rating": "PG-13",
+    "total_gross": 73058679,
+    "inflation_adjustes_gross": 77372445
+  },
+  {
+    "movie_title": "Chimpanzee",
+    "release_date": "2012-04-20",
+    "genre": "Documentary",
+    "mpaa_rating": "G",
+    "total_gross": 28965459,
+    "inflation_adjustes_gross": 30675725
+  },
+  {
+    "movie_title": "The Avengers",
+    "release_date": "2012-05-04",
+    "genre": "Action",
+    "mpaa_rating": "PG-13",
+    "total_gross": 623279547,
+    "inflation_adjustes_gross": 660081224
+  },
+  {
+    "movie_title": "Brave",
+    "release_date": "2012-06-22",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 237282182,
+    "inflation_adjustes_gross": 251292441
+  },
+  {
+    "movie_title": "People Like Us",
+    "release_date": "2012-06-29",
+    "genre": "Drama",
+    "mpaa_rating": "PG-13",
+    "total_gross": 12431792,
+    "inflation_adjustes_gross": 13165822
+  },
+  {
+    "movie_title": "The Odd Life of Timothy Green",
+    "release_date": "2012-08-15",
+    "genre": "Drama",
+    "mpaa_rating": "PG",
+    "total_gross": 51853450,
+    "inflation_adjustes_gross": 54914942
+  },
+  {
+    "movie_title": "Frankenweenie",
+    "release_date": "2012-10-05",
+    "genre": "Comedy",
+    "mpaa_rating": "PG",
+    "total_gross": 35287788,
+    "inflation_adjustes_gross": 37363513
+  },
+  {
+    "movie_title": "Wreck-It Ralph",
+    "release_date": "2012-11-02",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 189412677,
+    "inflation_adjustes_gross": 200354959
+  },
+  {
+    "movie_title": "Lincoln",
+    "release_date": "2012-11-09",
+    "genre": "Drama",
+    "mpaa_rating": "PG-13",
+    "total_gross": 182207973,
+    "inflation_adjustes_gross": 192122330
+  },
+  {
+    "movie_title": "Oz the Great and Powerful",
+    "release_date": "2013-03-08",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 234770996,
+    "inflation_adjustes_gross": 243434130
+  },
+  {
+    "movie_title": "Iron Man 3",
+    "release_date": "2013-05-03",
+    "genre": "Action",
+    "mpaa_rating": "PG-13",
+    "total_gross": 408992272,
+    "inflation_adjustes_gross": 424084233
+  },
+  {
+    "movie_title": "Monsters University",
+    "release_date": "2013-06-21",
+    "genre": "Adventure",
+    "mpaa_rating": "G",
+    "total_gross": 268488329,
+    "inflation_adjustes_gross": 278395641
+  },
+  {
+    "movie_title": "The Lone Ranger",
+    "release_date": "2013-07-02",
+    "genre": "Western",
+    "mpaa_rating": "PG-13",
+    "total_gross": 89302115,
+    "inflation_adjustes_gross": 92597388
+  },
+  {
+    "movie_title": "Disney Planes",
+    "release_date": "2013-08-09",
+    "genre": "Comedy",
+    "mpaa_rating": "PG",
+    "total_gross": 90282580,
+    "inflation_adjustes_gross": 93614037
+  },
+  {
+    "movie_title": "The Fifth Estate",
+    "release_date": "2013-10-18",
+    "genre": "Drama",
+    "mpaa_rating": "R",
+    "total_gross": 3254172,
+    "inflation_adjustes_gross": 3374251
+  },
+  {
+    "movie_title": "Thor: The Dark World",
+    "release_date": "2013-11-08",
+    "genre": "Adventure",
+    "mpaa_rating": "PG-13",
+    "total_gross": 206362140,
+    "inflation_adjustes_gross": 213962184
+  },
+  {
+    "movie_title": "Kaze Tachinu",
+    "release_date": "2013-11-08",
+    "genre": "Drama",
+    "mpaa_rating": "PG-13",
+    "total_gross": 5201879,
+    "inflation_adjustes_gross": 5367415
+  },
+  {
+    "movie_title": "Frozen",
+    "release_date": "2013-11-22",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 400738009,
+    "inflation_adjustes_gross": 414997174
+  },
+  {
+    "movie_title": "Delivery Man",
+    "release_date": "2013-11-22",
+    "genre": "Comedy",
+    "mpaa_rating": "PG-13",
+    "total_gross": 30659817,
+    "inflation_adjustes_gross": 31787136
+  },
+  {
+    "movie_title": "Saving Mr. Banks",
+    "release_date": "2013-12-13",
+    "genre": "Drama",
+    "mpaa_rating": "PG-13",
+    "total_gross": 83299761,
+    "inflation_adjustes_gross": 86249969
+  },
+  {
+    "movie_title": "Need for Speed",
+    "release_date": "2014-03-14",
+    "genre": "Action",
+    "mpaa_rating": "PG-13",
+    "total_gross": 43568507,
+    "inflation_adjustes_gross": 44955015
+  },
+  {
+    "movie_title": "Muppets Most Wanted",
+    "release_date": "2014-03-21",
+    "genre": "Comedy",
+    "mpaa_rating": "PG",
+    "total_gross": 51178893,
+    "inflation_adjustes_gross": 52807594
+  },
+  {
+    "movie_title": "Captain America: The Winter Soldier",
+    "release_date": "2014-04-04",
+    "genre": "Action",
+    "mpaa_rating": "PG-13",
+    "total_gross": 259746958,
+    "inflation_adjustes_gross": 268013076
+  },
+  {
+    "movie_title": "Bears",
+    "release_date": "2014-04-18",
+    "genre": "Documentary",
+    "mpaa_rating": "G",
+    "total_gross": 17780194,
+    "inflation_adjustes_gross": 18346024
+  },
+  {
+    "movie_title": "Million Dollar Arm",
+    "release_date": "2014-05-10",
+    "genre": "Drama",
+    "mpaa_rating": "PG",
+    "total_gross": 36447959,
+    "inflation_adjustes_gross": 37607865
+  },
+  {
+    "movie_title": "Maleficent",
+    "release_date": "2014-05-30",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 241407328,
+    "inflation_adjustes_gross": 249089809
+  },
+  {
+    "movie_title": "Planes: Fire and Rescue",
+    "release_date": "2014-07-18",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 59157732,
+    "inflation_adjustes_gross": 61040349
+  },
+  {
+    "movie_title": "Guardians of the Galaxy",
+    "release_date": "2014-08-01",
+    "genre": "Adventure",
+    "mpaa_rating": "PG-13",
+    "total_gross": 333172112,
+    "inflation_adjustes_gross": 343771168
+  },
+  {
+    "movie_title": "The Hundred-Foot Journey",
+    "release_date": "2014-08-08",
+    "genre": "Romantic Comedy",
+    "mpaa_rating": "PG",
+    "total_gross": 54235441,
+    "inflation_adjustes_gross": 55961409
+  },
+  {
+    "movie_title": "Big Hero 6",
+    "release_date": "2014-11-07",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 222527828,
+    "inflation_adjustes_gross": 229249222
+  },
+  {
+    "movie_title": "Into the Woods",
+    "release_date": "2014-12-25",
+    "genre": "Musical",
+    "mpaa_rating": "PG",
+    "total_gross": 128002372,
+    "inflation_adjustes_gross": 130894237
+  },
+  {
+    "movie_title": "Strange Magic",
+    "release_date": "2015-01-23",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 12429583,
+    "inflation_adjustes_gross": 12429583
+  },
+  {
+    "movie_title": "Cinderella",
+    "release_date": "2015-03-13",
+    "genre": "Drama",
+    "mpaa_rating": "PG",
+    "total_gross": 201151353,
+    "inflation_adjustes_gross": 201151353
+  },
+  {
+    "movie_title": "Monkey Kingdom",
+    "release_date": "2015-04-17",
+    "genre": "Documentary",
+    "mpaa_rating": "G",
+    "total_gross": 16432322,
+    "inflation_adjustes_gross": 16432322
+  },
+  {
+    "movie_title": "Avengers: Age of Ultron",
+    "release_date": "2015-05-01",
+    "genre": "Action",
+    "mpaa_rating": "PG-13",
+    "total_gross": 459005868,
+    "inflation_adjustes_gross": 459005868
+  },
+  {
+    "movie_title": "Tomorrowland",
+    "release_date": "2015-05-22",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 93436322,
+    "inflation_adjustes_gross": 93436322
+  },
+  {
+    "movie_title": "Inside Out",
+    "release_date": "2015-06-19",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 356461711,
+    "inflation_adjustes_gross": 356461711
+  },
+  {
+    "movie_title": "Ant-Man",
+    "release_date": "2015-07-17",
+    "genre": "Action",
+    "mpaa_rating": "PG-13",
+    "total_gross": 180202163,
+    "inflation_adjustes_gross": 180202163
+  },
+  {
+    "movie_title": "Bridge of Spies",
+    "release_date": "2015-10-16",
+    "genre": "Thriller/Suspense",
+    "mpaa_rating": "PG-13",
+    "total_gross": 72313754,
+    "inflation_adjustes_gross": 72313754
+  },
+  {
+    "movie_title": "The Good Dinosaur",
+    "release_date": "2015-11-25",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 123087120,
+    "inflation_adjustes_gross": 123087120
+  },
+  {
+    "movie_title": "Star Wars Ep. VII: The Force Awakens",
+    "release_date": "2015-12-18",
+    "genre": "Adventure",
+    "mpaa_rating": "PG-13",
+    "total_gross": 936662225,
+    "inflation_adjustes_gross": 936662225
+  },
+  {
+    "movie_title": "The Finest Hours",
+    "release_date": "2016-01-29",
+    "genre": "Thriller/Suspense",
+    "mpaa_rating": "PG",
+    "total_gross": 27569558,
+    "inflation_adjustes_gross": 27569558
+  },
+  {
+    "movie_title": "Zootopia",
+    "release_date": "2016-03-04",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 341268248,
+    "inflation_adjustes_gross": 341268248
+  },
+  {
+    "movie_title": "The Jungle Book",
+    "release_date": "2016-04-15",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 364001123,
+    "inflation_adjustes_gross": 364001123
+  },
+  {
+    "movie_title": "A Beautiful Planet",
+    "release_date": "2016-04-29",
+    "genre": "Documentary",
+    "mpaa_rating": "G",
+    "total_gross": 7895708,
+    "inflation_adjustes_gross": 7895708
+  },
+  {
+    "movie_title": "Captain America: Civil War",
+    "release_date": "2016-05-06",
+    "genre": "Action",
+    "mpaa_rating": "PG-13",
+    "total_gross": 408084349,
+    "inflation_adjustes_gross": 408084349
+  },
+  {
+    "movie_title": "Alice Through the Looking Glass",
+    "release_date": "2016-05-27",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 77042381,
+    "inflation_adjustes_gross": 77042381
+  },
+  {
+    "movie_title": "Finding Dory",
+    "release_date": "2016-06-17",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 486295561,
+    "inflation_adjustes_gross": 486295561
+  },
+  {
+    "movie_title": "The BFG",
+    "release_date": "2016-07-01",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 55483770,
+    "inflation_adjustes_gross": 55483770
+  },
+  {
+    "movie_title": "PeteвЂ™s Dragon",
+    "release_date": "2016-08-12",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 76233151,
+    "inflation_adjustes_gross": 76233151
+  },
+  {
+    "movie_title": "The Light Between Oceans",
+    "release_date": "2016-09-02",
+    "genre": "Drama",
+    "mpaa_rating": "PG-13",
+    "total_gross": 12545979,
+    "inflation_adjustes_gross": 12545979
+  },
+  {
+    "movie_title": "Queen of Katwe",
+    "release_date": "2016-09-23",
+    "genre": "Drama",
+    "mpaa_rating": "PG",
+    "total_gross": 8874389,
+    "inflation_adjustes_gross": 8874389
+  },
+  {
+    "movie_title": "Doctor Strange",
+    "release_date": "2016-11-04",
+    "genre": "Adventure",
+    "mpaa_rating": "PG-13",
+    "total_gross": 232532923,
+    "inflation_adjustes_gross": 232532923
+  },
+  {
+    "movie_title": "Moana",
+    "release_date": "2016-11-23",
+    "genre": "Adventure",
+    "mpaa_rating": "PG",
+    "total_gross": 246082029,
+    "inflation_adjustes_gross": 246082029
+  },
+  {
+    "movie_title": "Rogue One: A Star Wars Story",
+    "release_date": "2016-12-16",
+    "genre": "Adventure",
+    "mpaa_rating": "PG-13",
+    "total_gross": 529483936,
+    "inflation_adjustes_gross": 529483936
+  }
+]

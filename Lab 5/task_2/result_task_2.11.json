@@ -1,0 +1,26 @@
+[
+    {
+        "_id": 2015,
+        "max_age": 44,
+        "min_age": 44,
+        "avg_age": 44
+    },
+    {
+        "_id": 2005,
+        "max_age": 44,
+        "min_age": 44,
+        "avg_age": 44
+    },
+    {
+        "_id": 2004,
+        "max_age": 64,
+        "min_age": 50,
+        "avg_age": 57
+    },
+    {
+        "_id": 2016,
+        "max_age": 46,
+        "min_age": 29,
+        "avg_age": 38
+    }
+]
