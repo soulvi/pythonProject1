@@ -6,4 +6,4 @@ The DARWIN dataset contains handwriting data collected according to the acquisit
 The protocol  was specifically designed for the early detection of Alzheimer’s disease (AD). The dataset includes data from 174 participants (89 AD patients and 85 healthy people).
 # LAB 3 - Практическая работа 3
 # LAB 4 - Практическая работа 4
-Работа с SQLite
+Предметная область к 5 заданию: одежда и ее характеристики
