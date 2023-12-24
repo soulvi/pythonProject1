@@ -212,7 +212,21 @@ def max_salary_min_age(collection):
         items.append(stat)
 
     return items
-
+   # q=[
+    #     {
+    #         "$group":{
+    #             "_id":"$age",
+    #             "min_salary":{"$min":"salary"}
+    #         }
+    #     },
+    #     {
+    #         "$group":{
+    #             "_id":"result",
+    #             "max_age":{"$max":"$_id"},
+    #             "min_salary":{"$min":"$min_salary"}
+    #         }
+    #     }
+    # ]
 task7=max_salary_min_age(connect())
 
 with open('result_task_2.7.json', 'w') as f:
