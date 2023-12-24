@@ -65,7 +65,7 @@ def get_top_by_views(db, limit):
 result1 = get_top_by_views(db, 68)
 
 with open('result1.json', 'w') as f:
-    json.dump(result1, f, indent=4)
+    json.dump(result1, f, indent=4, ensure_ascii=False)
 
 # вывод (сумму, мин, макс, среднее) по произвольному числовому полю;
 
@@ -83,7 +83,7 @@ def get_stat_by_pages(db):
     cursor.close()
 
     with open('result2.json', 'w') as f:
-        json.dump(result2, f, indent=4)
+        json.dump(result2, f, indent=4, ensure_ascii=False)
 
     return result
 
@@ -107,7 +107,7 @@ def get_freq_by_century(db):
     cursor.close()
 
     with open('result3.json', 'w') as f:
-        json.dump(result3, f, indent=4)
+        json.dump(result3, f, indent=4, ensure_ascii=False)
 
     return result3
 
@@ -133,4 +133,4 @@ def filter_by_published_year(db,min_published_year, limit=68):
 result4 = filter_by_published_year(db, 68)
 
 with open('result4.json', 'w') as f:
-    json.dump(result4, f, indent=4)
+    json.dump(result4, f, indent=4, ensure_ascii=False)
